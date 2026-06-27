@@ -56,6 +56,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/processed_news.json
+          git add -f data/processed_news.json
           git diff --cached --quiet || git commit -m "Update processed news"
           git push
