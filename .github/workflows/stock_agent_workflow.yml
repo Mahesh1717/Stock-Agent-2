@@ -24,7 +24,7 @@ jobs:
       DRY_RUN: "false"
       RUN_INTERVAL_SECONDS: "60"
       RSS_MAX_AGE_HOURS: "2"
-      ALERT_ACTIONS: "BUY,HOLD"
+      ALERT_ACTIONS: "BUY,HOLD,SELL"
       MIN_ALERT_SCORE: "3"
       HF_HOME: .cache/huggingface
 

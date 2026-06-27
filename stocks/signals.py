@@ -35,6 +35,10 @@ def build_signal(
     score = 0
     reasons: list[str] = []
     risks: list[str] = []
+    negative_news = False
+    high_volume = indicators.volume_ratio >= volume_spike_threshold
+    bearish_macd = not indicators.macd_bullish
+    below_sma20 = not indicators.price_above_sma20
 
     if sentiment.label == "positive" and sentiment.score >= positive_threshold:
         score += 3
@@ -43,6 +47,7 @@ def build_signal(
             score += 1
             reasons.append(f"High-trust news source ({article.source_weight}/10)")
     elif sentiment.label == "negative" and sentiment.score >= negative_threshold:
+        negative_news = True
         score -= 3
         risks.append(f"Negative financial news ({sentiment.score:.0%})")
         if article.source_weight >= 8:
@@ -62,9 +67,12 @@ def build_signal(
     else:
         risks.append("MACD is not bullish")
 
-    if indicators.volume_ratio >= volume_spike_threshold:
+    if high_volume:
         score += 1
-        reasons.append(f"Volume is {indicators.volume_ratio:.1f}x the 20-day average")
+        if negative_news and bearish_macd:
+            risks.append(f"High selling-volume confirmation ({indicators.volume_ratio:.1f}x average)")
+        else:
+            reasons.append(f"Volume is {indicators.volume_ratio:.1f}x the 20-day average")
 
     if indicators.price_above_sma20:
         score += 1
@@ -72,7 +80,8 @@ def build_signal(
     else:
         risks.append("Price is below SMA20")
 
-    action = _action_from_score(score)
+    strong_sell = negative_news and bearish_macd and high_volume and below_sma20
+    action = _action_from_score(score, strong_sell)
     confidence = _confidence(score, article.source_weight)
 
     return Signal(
@@ -88,14 +97,16 @@ def build_signal(
     )
 
 
-def _action_from_score(score: int) -> str:
+def _action_from_score(score: int, strong_sell: bool) -> str:
     if score >= 6:
         return "BUY"
     if score >= 3:
         return "HOLD"
-    return "SELL"
+    if strong_sell:
+        return "SELL"
+    return "IGNORE"
 
 
 def _confidence(score: int, source_weight: int) -> int:
-    bounded_score = max(0, min(score, 9))
+    bounded_score = max(0, min(abs(score), 9))
     return min(95, max(10, int((bounded_score / 9) * 70 + source_weight * 2.5)))

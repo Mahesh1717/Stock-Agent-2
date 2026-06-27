@@ -69,5 +69,5 @@ def load_settings() -> Settings:
         rsi_sell_threshold=_float_env("RSI_SELL_THRESHOLD", 70.0),
         volume_spike_threshold=_float_env("VOLUME_SPIKE_THRESHOLD", 1.5),
         min_alert_score=_int_env("MIN_ALERT_SCORE", 3),
-        alert_actions=_csv_env("ALERT_ACTIONS", ("BUY", "HOLD")),
+        alert_actions=_csv_env("ALERT_ACTIONS", ("BUY", "HOLD", "SELL")),
     )

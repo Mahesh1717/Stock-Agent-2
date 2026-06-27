@@ -123,7 +123,8 @@ The first version uses a simple deterministic score:
 
 Decision:
 
-- `0-2`: SELL
+- Strong negative news + bearish MACD + volume spike + price below SMA20: `SELL`
+- `0-2` without strong sell confirmation: `IGNORE`
 - `3-5`: HOLD
 - `6+`: BUY
 
@@ -132,18 +133,21 @@ You can adjust thresholds in `.env`.
 Alerts are sent only when both conditions pass:
 
 - `Action` is listed in `ALERT_ACTIONS`
-- `Score` is at least `MIN_ALERT_SCORE`
+- For `BUY` / `HOLD`, `Score` is at least `MIN_ALERT_SCORE`
+- For `SELL`, the strong-sell rule has fired
 
 Default:
 
 ```text
-ALERT_ACTIONS=BUY,HOLD
+ALERT_ACTIONS=BUY,HOLD,SELL
 MIN_ALERT_SCORE=3
 ```
 
-This avoids sending weak `SELL` labels caused by "no bullish signal found". To receive every matched signal while testing, temporarily set:
+This avoids sending weak `SELL` labels caused by "no bullish signal found". `SELL` is sent only when negative news has bearish technical confirmation.
+
+To receive every matched signal while testing, temporarily set:
 
 ```text
-ALERT_ACTIONS=BUY,HOLD,SELL
+ALERT_ACTIONS=BUY,HOLD,SELL,IGNORE
 MIN_ALERT_SCORE=0
 ```

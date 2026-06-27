@@ -85,7 +85,7 @@ class StockAgent:
             logging.info("%s | %s | score=%s", stock.symbol, signal.action, signal.score)
             should_alert = (
                 signal.action in self.settings.alert_actions
-                and signal.score >= self.settings.min_alert_score
+                and (signal.action == "SELL" or signal.score >= self.settings.min_alert_score)
             )
             if should_alert:
                 self.notifier.send_signal(signal)
