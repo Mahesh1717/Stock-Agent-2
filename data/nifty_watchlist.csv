@@ -1,0 +1,100 @@
+symbol,yahoo_symbol,name,aliases
+RELIANCE,RELIANCE.NS,Reliance Industries,reliance|ril|jio
+TCS,TCS.NS,Tata Consultancy Services,tcs|tata consultancy
+HDFCBANK,HDFCBANK.NS,HDFC Bank,hdfc bank|hdfcbank
+ICICIBANK,ICICIBANK.NS,ICICI Bank,icici|icici bank
+INFY,INFY.NS,Infosys,infosys|infy
+HINDUNILVR,HINDUNILVR.NS,Hindustan Unilever,hul|hindustan unilever
+ITC,ITC.NS,ITC,itc
+SBIN,SBIN.NS,State Bank of India,sbi|state bank of india
+BHARTIARTL,BHARTIARTL.NS,Bharti Airtel,airtel|bharti airtel
+KOTAKBANK,KOTAKBANK.NS,Kotak Mahindra Bank,kotak|kotak bank
+LT,LT.NS,Larsen and Toubro,larsen|l&t|lt
+AXISBANK,AXISBANK.NS,Axis Bank,axis|axis bank
+BAJFINANCE,BAJFINANCE.NS,Bajaj Finance,bajaj finance
+ASIANPAINT,ASIANPAINT.NS,Asian Paints,asian paints
+MARUTI,MARUTI.NS,Maruti Suzuki,maruti|maruti suzuki
+SUNPHARMA,SUNPHARMA.NS,Sun Pharmaceutical,sun pharma|sun pharmaceutical
+TITAN,TITAN.NS,Titan Company,titan
+ULTRACEMCO,ULTRACEMCO.NS,UltraTech Cement,ultratech|ultratech cement
+WIPRO,WIPRO.NS,Wipro,wipro
+NESTLEIND,NESTLEIND.NS,Nestle India,nestle|nestle india
+ONGC,ONGC.NS,Oil and Natural Gas Corporation,ongc
+NTPC,NTPC.NS,NTPC,ntpc
+POWERGRID,POWERGRID.NS,Power Grid Corporation,power grid|powergrid
+M&M,M&M.NS,Mahindra and Mahindra,mahindra|m&m
+TATAMOTORS,TMPV.NS|TATAMOTORS.NS,Tata Motors,tata motors|tata motors passenger vehicles|tata motors pv|tmpv
+TATASTEEL,TATASTEEL.NS,Tata Steel,tata steel
+JSWSTEEL,JSWSTEEL.NS,JSW Steel,jsw steel
+HCLTECH,HCLTECH.NS,HCL Technologies,hcl tech|hcl technologies
+TECHM,TECHM.NS,Tech Mahindra,tech mahindra
+ADANIENT,ADANIENT.NS,Adani Enterprises,adani enterprises
+ADANIPORTS,ADANIPORTS.NS,Adani Ports,adani ports
+COALINDIA,COALINDIA.NS,Coal India,coal india
+GRASIM,GRASIM.NS,Grasim Industries,grasim
+HINDALCO,HINDALCO.NS,Hindalco Industries,hindalco
+BAJAJFINSV,BAJAJFINSV.NS,Bajaj Finserv,bajaj finserv
+HDFCLIFE,HDFCLIFE.NS,HDFC Life,hdfc life
+SBILIFE,SBILIFE.NS,SBI Life,sbi life
+BRITANNIA,BRITANNIA.NS,Britannia Industries,britannia
+CIPLA,CIPLA.NS,Cipla,cipla
+DIVISLAB,DIVISLAB.NS,Divi's Laboratories,divis lab|divi's laboratories
+DRREDDY,DRREDDY.NS,Dr Reddy's Laboratories,dr reddy|dr reddy's
+EICHERMOT,EICHERMOT.NS,Eicher Motors,eicher
+HEROMOTOCO,HEROMOTOCO.NS,Hero MotoCorp,hero motocorp|hero
+INDUSINDBK,INDUSINDBK.NS,IndusInd Bank,indusind|indusind bank
+BAJAJ-AUTO,BAJAJ-AUTO.NS,Bajaj Auto,bajaj auto
+BPCL,BPCL.NS,Bharat Petroleum,bpcl|bharat petroleum
+APOLLOHOSP,APOLLOHOSP.NS,Apollo Hospitals,apollo hospitals
+TATACONSUM,TATACONSUM.NS,Tata Consumer Products,tata consumer
+UPL,UPL.NS,UPL,upl
+ABB,ABB.NS,ABB India,abb
+ACC,ACC.NS,ACC,acc
+AMBUJACEM,AMBUJACEM.NS,Ambuja Cements,ambuja|ambuja cements
+BANKBARODA,BANKBARODA.NS,Bank of Baroda,bank of baroda|bob
+BEL,BEL.NS,Bharat Electronics,bel|bharat electronics
+BERGEPAINT,BERGEPAINT.NS,Berger Paints,berger paints|berger
+BHEL,BHEL.NS,Bharat Heavy Electricals,bhel|bharat heavy electricals
+BOSCHLTD,BOSCHLTD.NS,Bosch,bosch
+CANBK,CANBK.NS,Canara Bank,canara bank|canbk
+CHOLAFIN,CHOLAFIN.NS,Cholamandalam Investment and Finance,chola finance|cholamandalam
+DABUR,DABUR.NS,Dabur India,dabur
+DIXON,DIXON.NS,Dixon Technologies,dixon|dixon technologies
+DLF,DLF.NS,DLF,dlf
+DMART,DMART.NS,Avenue Supermarts,d-mart|dmart|avenue supermarts
+GAIL,GAIL.NS,GAIL,gail
+GODREJCP,GODREJCP.NS,Godrej Consumer Products,godrej consumer|godrejcp
+HAL,HAL.NS,Hindustan Aeronautics,hal|hindustan aeronautics
+HAVELLS,HAVELLS.NS,Havells India,havells
+ICICIGI,ICICIGI.NS,ICICI Lombard General Insurance,icici lombard|icici general insurance
+ICICIPRULI,ICICIPRULI.NS,ICICI Prudential Life Insurance,icici pru|icici prudential
+INDIGO,INDIGO.NS,InterGlobe Aviation,indigo|interglobe aviation
+IOC,IOC.NS,Indian Oil Corporation,indian oil|ioc
+IRCTC,IRCTC.NS,Indian Railway Catering and Tourism Corporation,irctc
+JINDALSTEL,JINDALSTEL.NS,Jindal Steel and Power,jindal steel|jspl
+JSWENERGY,JSWENERGY.NS,JSW Energy,jsw energy
+LICI,LICI.NS,Life Insurance Corporation of India,lic|life insurance corporation
+LTIM,LTIM.NS,LTIMindtree,ltimindtree|lti mindtree
+LUPIN,LUPIN.NS,Lupin,lupin
+MOTHERSON,MOTHERSON.NS,Samvardhana Motherson International,motherson|samvardhana motherson
+NAUKRI,NAUKRI.NS,Info Edge,info edge|naukri
+PIDILITIND,PIDILITIND.NS,Pidilite Industries,pidilite|fevicol
+PFC,PFC.NS,Power Finance Corporation,pfc|power finance corporation
+PNB,PNB.NS,Punjab National Bank,pnb|punjab national bank
+POLYCAB,POLYCAB.NS,Polycab India,polycab
+RECLTD,RECLTD.NS,REC,rec|rural electrification corporation
+SHREECEM,SHREECEM.NS,Shree Cement,shree cement
+SIEMENS,SIEMENS.NS,Siemens,siemens
+TATAPOWER,TATAPOWER.NS,Tata Power,tata power
+TORNTPHARM,TORNTPHARM.NS,Torrent Pharmaceuticals,torrent pharma|torrent pharmaceuticals
+TRENT,TRENT.NS,Trent,trent|zudio|westside
+TVSMOTOR,TVSMOTOR.NS,TVS Motor,tvs motor|tvs
+UNITDSPR,UNITDSPR.NS,United Spirits,united spirits|mcdowell
+VBL,VBL.NS,Varun Beverages,varun beverages|vbl
+VEDL,VEDL.NS,Vedanta,vedanta
+ZOMATO,ZOMATO.NS,Zomato,zomato
+ADANIGREEN,ADANIGREEN.NS,Adani Green Energy,adani green
+ADANIPOWER,ADANIPOWER.NS,Adani Power,adani power
+ATGL,ATGL.NS,Adani Total Gas,adani total gas
+MAXHEALTH,MAXHEALTH.NS,Max Healthcare,max healthcare|max health
+ZYDUSLIFE,ZYDUSLIFE.NS,Zydus Lifesciences,zydus|zydus life

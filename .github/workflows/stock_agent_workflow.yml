@@ -1,0 +1,61 @@
+name: Stock Agent
+
+on:
+  schedule:
+    # Every 15 minutes, offset from :00 to avoid GitHub's busiest minute.
+    - cron: "7,22,37,52 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stock-agent
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      DRY_RUN: "false"
+      RUN_INTERVAL_SECONDS: "60"
+      RSS_MAX_AGE_HOURS: "2"
+      ALERT_ACTIONS: "BUY,HOLD"
+      MIN_ALERT_SCORE: "3"
+      HF_HOME: .cache/huggingface
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Cache Hugging Face model
+        uses: actions/cache@v4
+        with:
+          path: .cache/huggingface
+          key: huggingface-finbert-v1
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip setuptools wheel
+          pip install -r requirements.txt
+
+      - name: Run stock agent once
+        run: python app.py --once
+
+      - name: Save processed news state
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/processed_news.json
+          git diff --cached --quiet || git commit -m "Update processed news"
+          git push
