@@ -3,7 +3,7 @@ name: Stock Agent
 on:
   schedule:
     # Every 15 minutes, offset from :00 to avoid GitHub's busiest minute.
-    - cron: "7,22,37,52 * * * *"
+    - cron: "9,24,39,54 * * * *"
   workflow_dispatch:
 
 permissions:
