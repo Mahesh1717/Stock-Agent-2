@@ -1,0 +1,4511 @@
+[
+  {
+    "symbol": "TCS",
+    "document_type": "annual_report",
+    "title": "TCS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29263_TCS_2025_2026_A_17427580_15052026234830.pdf",
+    "local_path": "documents\\TCS\\TCS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "360ONE",
+    "document_type": "annual_report",
+    "title": "360ONE_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27454_360ONE_2024_2025_A_14082025195558.pdf",
+    "local_path": "documents\\360ONE\\360ONE_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "3MINDIA",
+    "document_type": "annual_report",
+    "title": "3MINDIA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30174_3MINDIA_2025_2026_A_9190788_04082026133149.pdf",
+    "local_path": "documents\\3MINDIA\\3MINDIA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ABB",
+    "document_type": "annual_report",
+    "title": "ABB_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29243_ABB_2025_2025_A_14842087_09042026183132.pdf",
+    "local_path": "documents\\ABB\\ABB_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ACC",
+    "document_type": "annual_report",
+    "title": "ACC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29311_ACC_2025_2026_A_13715005_30052026180728.pdf",
+    "local_path": "documents\\ACC\\ACC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ACMESOLAR",
+    "document_type": "annual_report",
+    "title": "ACMESOLAR_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29174_ACMESOLAR_2024_2025_U_18047587_28102025195122.pdf",
+    "local_path": "documents\\ACMESOLAR\\ACMESOLAR_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "AIAENG",
+    "document_type": "annual_report",
+    "title": "AIAENG_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27544_AIAENG_2024_2025_A_21082025151554.pdf",
+    "local_path": "documents\\AIAENG\\AIAENG_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "APLAPOLLO",
+    "document_type": "annual_report",
+    "title": "APLAPOLLO_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27576_APLAPOLLO_2024_2025_A_22082025161914.pdf",
+    "local_path": "documents\\APLAPOLLO\\APLAPOLLO_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "AUBANK",
+    "document_type": "annual_report",
+    "title": "AUBANK_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_26967_AUBANK_2024_2025_A_16072025164507.pdf",
+    "local_path": "documents\\AUBANK\\AUBANK_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "AWL",
+    "document_type": "annual_report",
+    "title": "AWL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29388_AWL_2025_2026_A_19656253_13062026144340.pdf",
+    "local_path": "documents\\AWL\\AWL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "AADHARHFC",
+    "document_type": "annual_report",
+    "title": "AADHARHFC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29710_AADHARHFC_2025_2026_A_23422508_10072026160505.pdf",
+    "local_path": "documents\\AADHARHFC\\AADHARHFC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "AARTIIND",
+    "document_type": "annual_report",
+    "title": "AARTIIND_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27210_AARTIIND_2024_2025_A_31072025221218.pdf",
+    "local_path": "documents\\AARTIIND\\AARTIIND_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "AAVAS",
+    "document_type": "annual_report",
+    "title": "AAVAS_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27762_AAVAS_2024_2025_U_7848676_27082025153002.pdf",
+    "local_path": "documents\\AAVAS\\AAVAS_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ABBOTINDIA",
+    "document_type": "annual_report",
+    "title": "No annual reports found",
+    "source_url": "",
+    "local_path": "",
+    "status": "missing",
+    "error": ""
+  },
+  {
+    "symbol": "ACE",
+    "document_type": "annual_report",
+    "title": "ACE_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27285_ACE_2024_2025_A_05082025174117.pdf",
+    "local_path": "documents\\ACE\\ACE_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ACUTAAS",
+    "document_type": "annual_report",
+    "title": "ACUTAAS_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28086_ACUTAAS_2024_2025_A_8262208_01092025194340.pdf",
+    "local_path": "documents\\ACUTAAS\\ACUTAAS_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ADANIENSOL",
+    "document_type": "annual_report",
+    "title": "ADANIENSOL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29314_ADANIENSOL_2025_2026_A_14197639_31052026195028.pdf",
+    "local_path": "documents\\ADANIENSOL\\ADANIENSOL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ADANIENT",
+    "document_type": "annual_report",
+    "title": "ADANIENT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29299_ADANIENT_2025_2026_A_17942605_29052026223750.pdf",
+    "local_path": "documents\\ADANIENT\\ADANIENT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ADANIGREEN",
+    "document_type": "annual_report",
+    "title": "ADANIGREEN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29306_ADANIGREEN_2025_2026_A_15613080_30052026111335.pdf",
+    "local_path": "documents\\ADANIGREEN\\ADANIGREEN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "document_type": "annual_report",
+    "title": "ADANIPORTS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29300_ADANIPORTS_2025_2026_A_28945093_29052026225149.pdf",
+    "local_path": "documents\\ADANIPORTS\\ADANIPORTS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ADANIPOWER",
+    "document_type": "annual_report",
+    "title": "ADANIPOWER_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29298_ADANIPOWER_2025_2026_A_16975380_29052026213520.pdf",
+    "local_path": "documents\\ADANIPOWER\\ADANIPOWER_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ATGL",
+    "document_type": "annual_report",
+    "title": "ATGL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29304_ATGL_2025_2026_A_15608337_29052026234410.pdf",
+    "local_path": "documents\\ATGL\\ATGL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ABCAPITAL",
+    "document_type": "annual_report",
+    "title": "ABCAPITAL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29849_ABCAPITAL_2025_2026_A_30650082_17072026140516.pdf",
+    "local_path": "documents\\ABCAPITAL\\ABCAPITAL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ABFRL",
+    "document_type": "annual_report",
+    "title": "ABFRL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30116_ABFRL_2025_2026_A_23244327_31072026210408.pdf",
+    "local_path": "documents\\ABFRL\\ABFRL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ABLBL",
+    "document_type": "annual_report",
+    "title": "ABLBL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29991_ABLBL_2025_2026_A_17699003_24072026192216.pdf",
+    "local_path": "documents\\ABLBL\\ABLBL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ABREL",
+    "document_type": "annual_report",
+    "title": "ABREL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29523_ABREL_2025_2026_A_14069417_01072026190940.pdf",
+    "local_path": "documents\\ABREL\\ABREL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ABSLAMC",
+    "document_type": "annual_report",
+    "title": "ABSLAMC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29605_ABSLAMC_2025_2026_A_8053616_07072026111525.pdf",
+    "local_path": "documents\\ABSLAMC\\ABSLAMC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CPPLUS",
+    "document_type": "annual_report",
+    "title": "CPPLUS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29734_CPPLUS_2025_2026_A_23248253_10072026233423.pdf",
+    "local_path": "documents\\CPPLUS\\CPPLUS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "AEGISLOG",
+    "document_type": "annual_report",
+    "title": "AEGISLOG_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29783_AEGISLOG_2025_2026_A_5716643_14072026160822.pdf",
+    "local_path": "documents\\AEGISLOG\\AEGISLOG_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "AEGISVOPAK",
+    "document_type": "annual_report",
+    "title": "AEGISVOPAK_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29781_AEGISVOPAK_2025_2026_A_6055215_14072026154806.pdf",
+    "local_path": "documents\\AEGISVOPAK\\AEGISVOPAK_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "AFCONS",
+    "document_type": "annual_report",
+    "title": "AFCONS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29653_AFCONS_2025_2026_A_7366065_08072026154733.pdf",
+    "local_path": "documents\\AFCONS\\AFCONS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "AFFLE",
+    "document_type": "annual_report",
+    "title": "AFFLE_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27891_AFFLE_2024_2025_A_10642925_29082025174838.pdf",
+    "local_path": "documents\\AFFLE\\AFFLE_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "AJANTPHARM",
+    "document_type": "annual_report",
+    "title": "AJANTPHARM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29404_AJANTPHARM_2025_2026_A_9211972_18062026105542.pdf",
+    "local_path": "documents\\AJANTPHARM\\AJANTPHARM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ALKEM",
+    "document_type": "annual_report",
+    "title": "ALKEM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30058_ALKEM_2025_2026_A_19031569_29072026203126.pdf",
+    "local_path": "documents\\ALKEM\\ALKEM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ABDL",
+    "document_type": "annual_report",
+    "title": "ABDL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29386_ABDL_2025_2026_A_12967305_12062026224123.pdf",
+    "local_path": "documents\\ABDL\\ABDL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ARE&M",
+    "document_type": "annual_report",
+    "title": "ARE_M_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29850_ARE&M_2025_2026_A_21670690_17072026153325.pdf",
+    "local_path": "documents\\ARE&M\\ARE_M_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "AMBER",
+    "document_type": "annual_report",
+    "title": "AMBER_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27034_AMBER_2024_2025_A_18072025235747.pdf",
+    "local_path": "documents\\AMBER\\AMBER_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "document_type": "annual_report",
+    "title": "AMBUJACEM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29312_AMBUJACEM_2025_2026_A_14411072_30052026181544.pdf",
+    "local_path": "documents\\AMBUJACEM\\AMBUJACEM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ANANDRATHI",
+    "document_type": "annual_report",
+    "title": "ANANDRATHI_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29250_ANANDRATHI_2025_2026_A_10849687_27042026203150.pdf",
+    "local_path": "documents\\ANANDRATHI\\ANANDRATHI_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ANANTRAJ",
+    "document_type": "annual_report",
+    "title": "ANANTRAJ_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29787_ANANTRAJ_2025_2026_A_7817465_14072026175939.pdf",
+    "local_path": "documents\\ANANTRAJ\\ANANTRAJ_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ANGELONE",
+    "document_type": "annual_report",
+    "title": "ANGELONE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29268_ANGELONE_2025_2026_A_9386010_20052026224229.pdf",
+    "local_path": "documents\\ANGELONE\\ANGELONE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ANTHEM",
+    "document_type": "annual_report",
+    "title": "ANTHEM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29508_ANTHEM_2025_2026_U_10673688_30062026224833.pdf",
+    "local_path": "documents\\ANTHEM\\ANTHEM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ANURAS",
+    "document_type": "annual_report",
+    "title": "ANURAS_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28360_ANURAS_2024_2025_A_8203534_03092025204139.pdf",
+    "local_path": "documents\\ANURAS\\ANURAS_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "APARINDS",
+    "document_type": "annual_report",
+    "title": "APARINDS_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_26814_APARINDS_2024_2025_A_09072025183831.pdf",
+    "local_path": "documents\\APARINDS\\APARINDS_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "document_type": "annual_report",
+    "title": "APOLLOHOSP_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30122_APOLLOHOSP_2025_2026_A_16882027_01082026125310.pdf",
+    "local_path": "documents\\APOLLOHOSP\\APOLLOHOSP_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "APOLLOTYRE",
+    "document_type": "annual_report",
+    "title": "APOLLOTYRE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29578_APOLLOTYRE_2025_2026_A_11077364_06072026125039.pdf",
+    "local_path": "documents\\APOLLOTYRE\\APOLLOTYRE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "APTUS",
+    "document_type": "annual_report",
+    "title": "APTUS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29771_APTUS_2025_2026_A_10488937_13072026203545.pdf",
+    "local_path": "documents\\APTUS\\APTUS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ASAHIINDIA",
+    "document_type": "annual_report",
+    "title": "ASAHIINDIA_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27515_ASAHIINDIA_2024_2025_A_19082025235537.pdf",
+    "local_path": "documents\\ASAHIINDIA\\ASAHIINDIA_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ASHOKLEY",
+    "document_type": "annual_report",
+    "title": "ASHOKLEY_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29905_ASHOKLEY_2025_2026_A_9772138_20072026172851.pdf",
+    "local_path": "documents\\ASHOKLEY\\ASHOKLEY_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "document_type": "annual_report",
+    "title": "ASIANPAINT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29385_ASIANPAINT_2025_2026_A_26278926_12062026160918.pdf",
+    "local_path": "documents\\ASIANPAINT\\ASIANPAINT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ASTERDM",
+    "document_type": "annual_report",
+    "title": "ASTERDM_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27383_ASTERDM_2024_2025_A_12082025001358.pdf",
+    "local_path": "documents\\ASTERDM\\ASTERDM_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ASTRAL",
+    "document_type": "annual_report",
+    "title": "ASTRAL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30107_ASTRAL_2025_2026_A_25692481_31072026184147.pdf",
+    "local_path": "documents\\ASTRAL\\ASTRAL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ATHERENERG",
+    "document_type": "annual_report",
+    "title": "ATHERENERG_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30025_ATHERENERG_2025_2026_A_10006998_27072026203133.pdf",
+    "local_path": "documents\\ATHERENERG\\ATHERENERG_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ATUL",
+    "document_type": "annual_report",
+    "title": "ATUL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29866_ATUL_2025_2026_U_14177964_17072026184203.pdf",
+    "local_path": "documents\\ATUL\\ATUL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "AUROPHARMA",
+    "document_type": "annual_report",
+    "title": "AUROPHARMA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30156_AUROPHARMA_2025_2026_A_21808072_03082026185719.pdf",
+    "local_path": "documents\\AUROPHARMA\\AUROPHARMA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "AIIL",
+    "document_type": "annual_report",
+    "title": "AIIL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28505_AIIL_2024_2025_A_5140819_04092025215649.pdf",
+    "local_path": "documents\\AIIL\\AIIL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "DMART",
+    "document_type": "annual_report",
+    "title": "DMART_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29968_DMART_2025_2026_A_17070931_23072026180257.pdf",
+    "local_path": "documents\\DMART\\DMART_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "AXISBANK",
+    "document_type": "annual_report",
+    "title": "AXISBANK_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29441_AXISBANK_2025_2026_A_11309490_25062026131025.pdf",
+    "local_path": "documents\\AXISBANK\\AXISBANK_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BEML",
+    "document_type": "annual_report",
+    "title": "BEML_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28492_BEML_2024_2025_A_24044356_04092025204422.pdf",
+    "local_path": "documents\\BEML\\BEML_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BLS",
+    "document_type": "annual_report",
+    "title": "BLS_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29040_BLS_2024_2025_U_16407454_15092025184803.pdf",
+    "local_path": "documents\\BLS\\BLS_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BSE",
+    "document_type": "annual_report",
+    "title": "BSE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29957_BSE_2025_2026_A_15352240_23072026103201.pdf",
+    "local_path": "documents\\BSE\\BSE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BAJAJ-AUTO",
+    "document_type": "annual_report",
+    "title": "BAJAJ-AUTO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29442_BAJAJ-AUTO_2025_2026_A_23800060_25062026131543.pdf",
+    "local_path": "documents\\BAJAJ-AUTO\\BAJAJ-AUTO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "document_type": "annual_report",
+    "title": "BAJFINANCE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29642_BAJFINANCE_2025_2026_A_23098027_07072026220255.pdf",
+    "local_path": "documents\\BAJFINANCE\\BAJFINANCE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BAJAJFINSV",
+    "document_type": "annual_report",
+    "title": "BAJAJFINSV_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29660_BAJAJFINSV_2025_2026_A_18661813_08072026172332.pdf",
+    "local_path": "documents\\BAJAJFINSV\\BAJAJFINSV_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BAJAJHLDNG",
+    "document_type": "annual_report",
+    "title": "BAJAJHLDNG_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29627_BAJAJHLDNG_2025_2026_A_8290169_07072026172845.pdf",
+    "local_path": "documents\\BAJAJHLDNG\\BAJAJHLDNG_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BAJAJHFL",
+    "document_type": "annual_report",
+    "title": "BAJAJHFL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29661_BAJAJHFL_2025_2026_A_11897915_08072026172518.pdf",
+    "local_path": "documents\\BAJAJHFL\\BAJAJHFL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BALKRISIND",
+    "document_type": "annual_report",
+    "title": "BALKRISIND_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29589_BALKRISIND_2025_2026_A_14526341_06072026184853.pdf",
+    "local_path": "documents\\BALKRISIND\\BALKRISIND_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BALRAMCHIN",
+    "document_type": "annual_report",
+    "title": "BALRAMCHIN_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27315_BALRAMCHIN_2024_2025_A_06082025204209.pdf",
+    "local_path": "documents\\BALRAMCHIN\\BALRAMCHIN_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BANDHANBNK",
+    "document_type": "annual_report",
+    "title": "BANDHANBNK_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30085_BANDHANBNK_2025_2026_A_10342063_31072026100038.pdf",
+    "local_path": "documents\\BANDHANBNK\\BANDHANBNK_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BANKBARODA",
+    "document_type": "annual_report",
+    "title": "BANKBARODA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29293_BANKBARODA_2025_2026_A_13264438_29052026181017.pdf",
+    "local_path": "documents\\BANKBARODA\\BANKBARODA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BANKINDIA",
+    "document_type": "annual_report",
+    "title": "BANKINDIA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29271_BANKINDIA_2025_2026_A_5930339_22052026115827.pdf",
+    "local_path": "documents\\BANKINDIA\\BANKINDIA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MAHABANK",
+    "document_type": "annual_report",
+    "title": "MAHABANK_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29360_MAHABANK_2025_2026_A_16232043_06062026210604.pdf",
+    "local_path": "documents\\MAHABANK\\MAHABANK_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BATAINDIA",
+    "document_type": "annual_report",
+    "title": "BATAINDIA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29882_BATAINDIA_2025_2026_A_8059343_18072026000019.pdf",
+    "local_path": "documents\\BATAINDIA\\BATAINDIA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BAYERCROP",
+    "document_type": "annual_report",
+    "title": "BAYERCROP_Annual_Report_2014",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_7455_BAYERCROP_2014_2015_01092015130003.zip",
+    "local_path": "documents\\BAYERCROP\\BAYERCROP_Annual_Report_2014.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BELRISE",
+    "document_type": "annual_report",
+    "title": "BELRISE_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28016_BELRISE_2024_2025_A_7285756_01092025135608.pdf",
+    "local_path": "documents\\BELRISE\\BELRISE_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BERGEPAINT",
+    "document_type": "annual_report",
+    "title": "BERGEPAINT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29940_BERGEPAINT_2025_2026_A_11187068_21072026184258.pdf",
+    "local_path": "documents\\BERGEPAINT\\BERGEPAINT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BDL",
+    "document_type": "annual_report",
+    "title": "BDL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28145_BDL_2024_2025_A_8992862_02092025155250.pdf",
+    "local_path": "documents\\BDL\\BDL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BEL",
+    "document_type": "annual_report",
+    "title": "BEL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30214_BEL_2025_2026_A_16199415_05082026205636.pdf",
+    "local_path": "documents\\BEL\\BEL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BHARATFORG",
+    "document_type": "annual_report",
+    "title": "BHARATFORG_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29843_BHARATFORG_2025_2026_A_15822162_17072026112821.pdf",
+    "local_path": "documents\\BHARATFORG\\BHARATFORG_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BHEL",
+    "document_type": "annual_report",
+    "title": "BHEL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29697_BHEL_2025_2026_A_24629618_10072026125651.pdf",
+    "local_path": "documents\\BHEL\\BHEL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BPCL",
+    "document_type": "annual_report",
+    "title": "BPCL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30160_BPCL_2025_2026_A_20618345_03082026193535.pdf",
+    "local_path": "documents\\BPCL\\BPCL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "document_type": "annual_report",
+    "title": "BHARTIARTL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29749_BHARTIARTL_2025_2026_A_22716516_11072026235841.pdf",
+    "local_path": "documents\\BHARTIARTL\\BHARTIARTL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BHARTIHEXA",
+    "document_type": "annual_report",
+    "title": "BHARTIHEXA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29883_BHARTIHEXA_2025_2026_A_17847086_18072026001748.pdf",
+    "local_path": "documents\\BHARTIHEXA\\BHARTIHEXA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BIKAJI",
+    "document_type": "annual_report",
+    "title": "BIKAJI_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29959_BIKAJI_2025_2026_A_13485340_23072026123248.pdf",
+    "local_path": "documents\\BIKAJI\\BIKAJI_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GROWW",
+    "document_type": "annual_report",
+    "title": "GROWW_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30068_GROWW_2025_2026_A_26763817_30072026131426.pdf",
+    "local_path": "documents\\GROWW\\GROWW_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BIOCON",
+    "document_type": "annual_report",
+    "title": "BIOCON_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29805_BIOCON_2025_2026_A_26719819_15072026152450.pdf",
+    "local_path": "documents\\BIOCON\\BIOCON_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BSOFT",
+    "document_type": "annual_report",
+    "title": "BSOFT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29551_BSOFT_2025_2026_A_6119813_03072026133402.pdf",
+    "local_path": "documents\\BSOFT\\BSOFT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BLUEDART",
+    "document_type": "annual_report",
+    "title": "BLUEDART_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27055_BLUEDART_2024_2025_A_21072025192010.pdf",
+    "local_path": "documents\\BLUEDART\\BLUEDART_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BLUEJET",
+    "document_type": "annual_report",
+    "title": "BLUEJET_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28174_BLUEJET_2024_2025_A_6106596_02092025175832.pdf",
+    "local_path": "documents\\BLUEJET\\BLUEJET_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BLUESTARCO",
+    "document_type": "annual_report",
+    "title": "BLUESTARCO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29774_BLUESTARCO_2025_2026_A_16432255_13072026232241.pdf",
+    "local_path": "documents\\BLUESTARCO\\BLUESTARCO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BBTC",
+    "document_type": "annual_report",
+    "title": "BBTC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29871_BBTC_2025_2026_A_9754540_17072026193746.pdf",
+    "local_path": "documents\\BBTC\\BBTC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BOSCHLTD",
+    "document_type": "annual_report",
+    "title": "BOSCHLTD_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29692_BOSCHLTD_2025_2026_A_27408610_10072026102229.pdf",
+    "local_path": "documents\\BOSCHLTD\\BOSCHLTD_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "FIRSTCRY",
+    "document_type": "annual_report",
+    "title": "FIRSTCRY_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27629_FIRSTCRY_2024_2025_A_13709829_25082025150817.pdf",
+    "local_path": "documents\\FIRSTCRY\\FIRSTCRY_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BRIGADE",
+    "document_type": "annual_report",
+    "title": "BRIGADE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29942_BRIGADE_2025_2026_A_19567026_22072026011339.pdf",
+    "local_path": "documents\\BRIGADE\\BRIGADE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "BRITANNIA",
+    "document_type": "annual_report",
+    "title": "BRITANNIA_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27040_BRITANNIA_2024_2025_A_19072025234802.pdf",
+    "local_path": "documents\\BRITANNIA\\BRITANNIA_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MAPMYINDIA",
+    "document_type": "annual_report",
+    "title": "MAPMYINDIA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29889_MAPMYINDIA_2025_2026_A_5383439_18072026163651.pdf",
+    "local_path": "documents\\MAPMYINDIA\\MAPMYINDIA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CCL",
+    "document_type": "annual_report",
+    "title": "CCL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27086_CCL_2024_2025_A_23072025212736.pdf",
+    "local_path": "documents\\CCL\\CCL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CESC",
+    "document_type": "annual_report",
+    "title": "CESC_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27448_CESC_2024_2025_A_14082025185050.pdf",
+    "local_path": "documents\\CESC\\CESC_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CGPOWER",
+    "document_type": "annual_report",
+    "title": "CGPOWER_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29493_CGPOWER_2025_2026_A_11109518_30062026162136.pdf",
+    "local_path": "documents\\CGPOWER\\CGPOWER_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CIEINDIA",
+    "document_type": "annual_report",
+    "title": "CIEINDIA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29241_CIEINDIA_2025_2025_A_7469959_02042026182856.pdf",
+    "local_path": "documents\\CIEINDIA\\CIEINDIA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CRISIL",
+    "document_type": "annual_report",
+    "title": "CRISIL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29238_CRISIL_2025_2025_A_14387768_23032026201018.pdf",
+    "local_path": "documents\\CRISIL\\CRISIL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CANFINHOME",
+    "document_type": "annual_report",
+    "title": "CANFINHOME_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29593_CANFINHOME_2025_2026_A_25201759_06072026192006.pdf",
+    "local_path": "documents\\CANFINHOME\\CANFINHOME_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CANBK",
+    "document_type": "annual_report",
+    "title": "CANBK_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29282_CANBK_2025_2026_A_13649986_27052026183914.pdf",
+    "local_path": "documents\\CANBK\\CANBK_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CANHLIFE",
+    "document_type": "annual_report",
+    "title": "No annual reports found",
+    "source_url": "",
+    "local_path": "",
+    "status": "missing",
+    "error": ""
+  },
+  {
+    "symbol": "CAPLIPOINT",
+    "document_type": "annual_report",
+    "title": "CAPLIPOINT_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27956_CAPLIPOINT_2024_2025_A_8469162_30082025163729.pdf",
+    "local_path": "documents\\CAPLIPOINT\\CAPLIPOINT_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CGCL",
+    "document_type": "annual_report",
+    "title": "CGCL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28402_CGCL_2024_2025_A_7239807_04092025143559.pdf",
+    "local_path": "documents\\CGCL\\CGCL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CARBORUNIV",
+    "document_type": "annual_report",
+    "title": "CARBORUNIV_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29837_CARBORUNIV_2025_2026_A_17464766_16072026211252.pdf",
+    "local_path": "documents\\CARBORUNIV\\CARBORUNIV_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CARTRADE",
+    "document_type": "annual_report",
+    "title": "CARTRADE_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28208_CARTRADE_2024_2025_A_21873981_02092025193743.pdf",
+    "local_path": "documents\\CARTRADE\\CARTRADE_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CASTROLIND",
+    "document_type": "annual_report",
+    "title": "CASTROLIND_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29232_CASTROLIND_2025_2025_A_22779924_25022026150122.pdf",
+    "local_path": "documents\\CASTROLIND\\CASTROLIND_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CEATLTD",
+    "document_type": "annual_report",
+    "title": "CEATLTD_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29958_CEATLTD_2025_2026_A_20312897_23072026115614.pdf",
+    "local_path": "documents\\CEATLTD\\CEATLTD_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CEMPRO",
+    "document_type": "annual_report",
+    "title": "CEMPRO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29302_CEMPRO_2025_2026_A_11134812_29052026232026.pdf",
+    "local_path": "documents\\CEMPRO\\CEMPRO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CENTRALBK",
+    "document_type": "annual_report",
+    "title": "CENTRALBK_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29684_CENTRALBK_2025_2026_A_22982267_09072026171438.pdf",
+    "local_path": "documents\\CENTRALBK\\CENTRALBK_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CDSL",
+    "document_type": "annual_report",
+    "title": "CDSL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29665_CDSL_2025_2026_A_15773086_08072026190152.pdf",
+    "local_path": "documents\\CDSL\\CDSL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CHALET",
+    "document_type": "annual_report",
+    "title": "CHALET_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_26949_CHALET_2024_2025_A_15072025211453.pdf",
+    "local_path": "documents\\CHALET\\CHALET_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CHAMBLFERT",
+    "document_type": "annual_report",
+    "title": "CHAMBLFERT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30210_CHAMBLFERT_2025_2026_A_3218276_05082026183449.pdf",
+    "local_path": "documents\\CHAMBLFERT\\CHAMBLFERT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CHENNPETRO",
+    "document_type": "annual_report",
+    "title": "CHENNPETRO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30134_CHENNPETRO_2025_2026_A_13664814_01082026204820.pdf",
+    "local_path": "documents\\CHENNPETRO\\CHENNPETRO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CHOICEIN",
+    "document_type": "annual_report",
+    "title": "CHOICEIN_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27720_CHOICEIN_2024_2025_A_43145358_26082025175431.pdf",
+    "local_path": "documents\\CHOICEIN\\CHOICEIN_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CHOLAHLDNG",
+    "document_type": "annual_report",
+    "title": "CHOLAHLDNG_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29955_CHOLAHLDNG_2025_2026_A_13415420_22072026221018.pdf",
+    "local_path": "documents\\CHOLAHLDNG\\CHOLAHLDNG_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CHOLAFIN",
+    "document_type": "annual_report",
+    "title": "CHOLAFIN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29596_CHOLAFIN_2025_2026_A_8171029_06072026201106.pdf",
+    "local_path": "documents\\CHOLAFIN\\CHOLAFIN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CIPLA",
+    "document_type": "annual_report",
+    "title": "CIPLA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29325_CIPLA_2025_2026_A_20783341_01062026233258.pdf",
+    "local_path": "documents\\CIPLA\\CIPLA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CUB",
+    "document_type": "annual_report",
+    "title": "CUB_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29918_CUB_2025_2026_A_30099016_20072026210213.pdf",
+    "local_path": "documents\\CUB\\CUB_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CLEAN",
+    "document_type": "annual_report",
+    "title": "CLEAN_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27390_CLEAN_2024_2025_A_12082025130643.pdf",
+    "local_path": "documents\\CLEAN\\CLEAN_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "COALINDIA",
+    "document_type": "annual_report",
+    "title": "COALINDIA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30242_COALINDIA_2025_2026_A_21928224_07082026155645.pdf",
+    "local_path": "documents\\COALINDIA\\COALINDIA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "COCHINSHIP",
+    "document_type": "annual_report",
+    "title": "COCHINSHIP_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28151_COCHINSHIP_2024_2025_A_14033307_02092025162535.pdf",
+    "local_path": "documents\\COCHINSHIP\\COCHINSHIP_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "COFORGE",
+    "document_type": "annual_report",
+    "title": "COFORGE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30140_COFORGE_2025_2026_A_11332865_02082026222200.pdf",
+    "local_path": "documents\\COFORGE\\COFORGE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "COHANCE",
+    "document_type": "annual_report",
+    "title": "COHANCE_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27754_COHANCE_2024_2025_A_15527642_26082025230550.pdf",
+    "local_path": "documents\\COHANCE\\COHANCE_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "COLPAL",
+    "document_type": "annual_report",
+    "title": "COLPAL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29569_COLPAL_2025_2026_A_20106700_04072026151914.pdf",
+    "local_path": "documents\\COLPAL\\COLPAL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CAMS",
+    "document_type": "annual_report",
+    "title": "CAMS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29393_CAMS_2025_2026_A_10969318_15062026213013.pdf",
+    "local_path": "documents\\CAMS\\CAMS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CONCORDBIO",
+    "document_type": "annual_report",
+    "title": "CONCORDBIO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29617_CONCORDBIO_2025_2026_A_23221058_07072026162000.pdf",
+    "local_path": "documents\\CONCORDBIO\\CONCORDBIO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CONCOR",
+    "document_type": "annual_report",
+    "title": "CONCOR_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28074_CONCOR_2024_2025_A_9631203_01092025184652.pdf",
+    "local_path": "documents\\CONCOR\\CONCOR_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "COROMANDEL",
+    "document_type": "annual_report",
+    "title": "COROMANDEL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29527_COROMANDEL_2025_2026_A_23913843_01072026233859.pdf",
+    "local_path": "documents\\COROMANDEL\\COROMANDEL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CRAFTSMAN",
+    "document_type": "annual_report",
+    "title": "CRAFTSMAN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29469_CRAFTSMAN_2025_2026_A_2505573_27062026180337.pdf",
+    "local_path": "documents\\CRAFTSMAN\\CRAFTSMAN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CREDITACC",
+    "document_type": "annual_report",
+    "title": "CREDITACC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29371_CREDITACC_2025_2026_A_16922145_09062026184958.pdf",
+    "local_path": "documents\\CREDITACC\\CREDITACC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CROMPTON",
+    "document_type": "annual_report",
+    "title": "CROMPTON_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29652_CROMPTON_2025_2026_A_19853481_08072026154232.pdf",
+    "local_path": "documents\\CROMPTON\\CROMPTON_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CUMMINSIND",
+    "document_type": "annual_report",
+    "title": "CUMMINSIND_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29916_CUMMINSIND_2025_2026_U_15157578_20072026204111.pdf",
+    "local_path": "documents\\CUMMINSIND\\CUMMINSIND_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "CYIENT",
+    "document_type": "annual_report",
+    "title": "CYIENT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29375_CYIENT_2025_2026_A_10062585_09062026231701.pdf",
+    "local_path": "documents\\CYIENT\\CYIENT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "DCMSHRIRAM",
+    "document_type": "annual_report",
+    "title": "DCMSHRIRAM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29929_DCMSHRIRAM_2025_2026_A_8994610_21072026153801.pdf",
+    "local_path": "documents\\DCMSHRIRAM\\DCMSHRIRAM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "DLF",
+    "document_type": "annual_report",
+    "title": "DLF_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29745_DLF_2025_2026_A_24964398_11072026153142.pdf",
+    "local_path": "documents\\DLF\\DLF_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "DOMS",
+    "document_type": "annual_report",
+    "title": "DOMS_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27983_DOMS_2024_2025_A_11195320_30082025222657.pdf",
+    "local_path": "documents\\DOMS\\DOMS_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "DABUR",
+    "document_type": "annual_report",
+    "title": "DABUR_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29588_DABUR_2025_2026_A_28311115_06072026183341.pdf",
+    "local_path": "documents\\DABUR\\DABUR_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "DALBHARAT",
+    "document_type": "annual_report",
+    "title": "DALBHARAT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29347_DALBHARAT_2025_2026_A_16612657_04062026221102.pdf",
+    "local_path": "documents\\DALBHARAT\\DALBHARAT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "DATAPATTNS",
+    "document_type": "annual_report",
+    "title": "DATAPATTNS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29674_DATAPATTNS_2025_2026_U_3552031_09072026103531.pdf",
+    "local_path": "documents\\DATAPATTNS\\DATAPATTNS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "DEEPAKFERT",
+    "document_type": "annual_report",
+    "title": "DEEPAKFERT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30274_DEEPAKFERT_2025_2026_A_4338808_09082026164108.pdf",
+    "local_path": "documents\\DEEPAKFERT\\DEEPAKFERT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "DEEPAKNTR",
+    "document_type": "annual_report",
+    "title": "DEEPAKNTR_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29797_DEEPAKNTR_2025_2026_A_16675200_14072026212237.pdf",
+    "local_path": "documents\\DEEPAKNTR\\DEEPAKNTR_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "DELHIVERY",
+    "document_type": "annual_report",
+    "title": "DELHIVERY_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27363_DELHIVERY_2024_2025_A_08082025200205.pdf",
+    "local_path": "documents\\DELHIVERY\\DELHIVERY_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "DEVYANI",
+    "document_type": "annual_report",
+    "title": "DEVYANI_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29971_DEVYANI_2025_2026_A_14262910_23072026204743.pdf",
+    "local_path": "documents\\DEVYANI\\DEVYANI_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "DIVISLAB",
+    "document_type": "annual_report",
+    "title": "DIVISLAB_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29804_DIVISLAB_2025_2026_A_23371989_15072026143537.pdf",
+    "local_path": "documents\\DIVISLAB\\DIVISLAB_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "DIXON",
+    "document_type": "annual_report",
+    "title": "DIXON_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29048_DIXON_2024_2025_A_14468137_15092025224042.pdf",
+    "local_path": "documents\\DIXON\\DIXON_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "LALPATHLAB",
+    "document_type": "annual_report",
+    "title": "LALPATHLAB_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29512_LALPATHLAB_2025_2026_A_9747946_01072026131228.pdf",
+    "local_path": "documents\\LALPATHLAB\\LALPATHLAB_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "DRREDDY",
+    "document_type": "annual_report",
+    "title": "DRREDDY_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29502_DRREDDY_2025_2026_A_25681937_30062026191727.pdf",
+    "local_path": "documents\\DRREDDY\\DRREDDY_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "EIDPARRY",
+    "document_type": "annual_report",
+    "title": "EIDPARRY_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29874_EIDPARRY_2025_2026_A_18621405_17072026202544.pdf",
+    "local_path": "documents\\EIDPARRY\\EIDPARRY_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "EIHOTEL",
+    "document_type": "annual_report",
+    "title": "EIHOTEL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29794_EIHOTEL_2025_2026_A_12445675_14072026201711.pdf",
+    "local_path": "documents\\EIHOTEL\\EIHOTEL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "EICHERMOT",
+    "document_type": "annual_report",
+    "title": "EICHERMOT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30000_EICHERMOT_2025_2026_A_15831005_25072026150306.pdf",
+    "local_path": "documents\\EICHERMOT\\EICHERMOT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ELECON",
+    "document_type": "annual_report",
+    "title": "ELECON_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29329_ELECON_2025_2026_A_13315281_02062026201427.pdf",
+    "local_path": "documents\\ELECON\\ELECON_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ELGIEQUIP",
+    "document_type": "annual_report",
+    "title": "ELGIEQUIP_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29898_ELGIEQUIP_2025_2026_A_11230253_20072026133144.pdf",
+    "local_path": "documents\\ELGIEQUIP\\ELGIEQUIP_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "EMAMILTD",
+    "document_type": "annual_report",
+    "title": "EMAMILTD_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30078_EMAMILTD_2025_2026_A_25947475_30072026190250.pdf",
+    "local_path": "documents\\EMAMILTD\\EMAMILTD_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "EMCURE",
+    "document_type": "annual_report",
+    "title": "EMCURE_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27251_EMCURE_2024_2025_A_02082025165550.pdf",
+    "local_path": "documents\\EMCURE\\EMCURE_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "EMMVEE",
+    "document_type": "annual_report",
+    "title": "No annual reports found",
+    "source_url": "",
+    "local_path": "",
+    "status": "missing",
+    "error": ""
+  },
+  {
+    "symbol": "ENDURANCE",
+    "document_type": "annual_report",
+    "title": "ENDURANCE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29926_ENDURANCE_2025_2026_A_19038222_21072026143106.pdf",
+    "local_path": "documents\\ENDURANCE\\ENDURANCE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ENGINERSIN",
+    "document_type": "annual_report",
+    "title": "ENGINERSIN_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27861_ENGINERSIN_2024_2025_A_17486726_29082025123404.pdf",
+    "local_path": "documents\\ENGINERSIN\\ENGINERSIN_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ERIS",
+    "document_type": "annual_report",
+    "title": "ERIS_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_26690_ERIS_2024_2025_A_02072025193052.pdf",
+    "local_path": "documents\\ERIS\\ERIS_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ESCORTS",
+    "document_type": "annual_report",
+    "title": "ESCORTS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29414_ESCORTS_2025_2026_A_13606210_19062026200244.pdf",
+    "local_path": "documents\\ESCORTS\\ESCORTS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ETERNAL",
+    "document_type": "annual_report",
+    "title": "ETERNAL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30059_ETERNAL_2025_2026_A_48211721_29072026204435.pdf",
+    "local_path": "documents\\ETERNAL\\ETERNAL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "EXIDEIND",
+    "document_type": "annual_report",
+    "title": "EXIDEIND_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29399_EXIDEIND_2025_2026_A_31548201_16062026183157.pdf",
+    "local_path": "documents\\EXIDEIND\\EXIDEIND_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NYKAA",
+    "document_type": "annual_report",
+    "title": "NYKAA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30133_NYKAA_2025_2026_A_26389219_01082026194240.pdf",
+    "local_path": "documents\\NYKAA\\NYKAA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "FEDERALBNK",
+    "document_type": "annual_report",
+    "title": "FEDERALBNK_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30083_FEDERALBNK_2025_2026_A_19914611_30072026220815.pdf",
+    "local_path": "documents\\FEDERALBNK\\FEDERALBNK_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "FACT",
+    "document_type": "annual_report",
+    "title": "FACT_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28198_FACT_2024_2025_A_13083033_02092025190802.pdf",
+    "local_path": "documents\\FACT\\FACT_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "FINCABLES",
+    "document_type": "annual_report",
+    "title": "FINCABLES_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28596_FINCABLES_2024_2025_U_3522261_05092025171325.pdf",
+    "local_path": "documents\\FINCABLES\\FINCABLES_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "FSL",
+    "document_type": "annual_report",
+    "title": "FSL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29793_FSL_2025_2026_A_9413944_14072026201025.pdf",
+    "local_path": "documents\\FSL\\FSL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "FIVESTAR",
+    "document_type": "annual_report",
+    "title": "FIVESTAR_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30229_FIVESTAR_2025_2026_A_10166612_06082026183417.pdf",
+    "local_path": "documents\\FIVESTAR\\FIVESTAR_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "FORCEMOT",
+    "document_type": "annual_report",
+    "title": "FORCEMOT_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27755_FORCEMOT_2024_2025_A_8334931_26082025231601.pdf",
+    "local_path": "documents\\FORCEMOT\\FORCEMOT_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "FORTIS",
+    "document_type": "annual_report",
+    "title": "FORTIS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29859_FORTIS_2025_2026_A_13291240_17072026174446.pdf",
+    "local_path": "documents\\FORTIS\\FORTIS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GAIL",
+    "document_type": "annual_report",
+    "title": "GAIL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30201_GAIL_2025_2026_A_22390811_05082026133824.pdf",
+    "local_path": "documents\\GAIL\\GAIL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GVT&D",
+    "document_type": "annual_report",
+    "title": "GVT_D_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27449_GVT&D_2024_2025_A_14082025185705.pdf",
+    "local_path": "documents\\GVT&D\\GVT_D_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GMRAIRPORT",
+    "document_type": "annual_report",
+    "title": "GMRAIRPORT_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28658_GMRAIRPORT_2024_2025_A_11281618_05092025192909.pdf",
+    "local_path": "documents\\GMRAIRPORT\\GMRAIRPORT_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GABRIEL",
+    "document_type": "annual_report",
+    "title": "GABRIEL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30042_GABRIEL_2025_2026_A_6988241_28072026192708.pdf",
+    "local_path": "documents\\GABRIEL\\GABRIEL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GALLANTT",
+    "document_type": "annual_report",
+    "title": "GALLANTT_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28479_GALLANTT_2024_2025_A_8392066_04092025194118.pdf",
+    "local_path": "documents\\GALLANTT\\GALLANTT_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GRSE",
+    "document_type": "annual_report",
+    "title": "GRSE_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27711_GRSE_2024_2025_A_7596536_26082025170420.pdf",
+    "local_path": "documents\\GRSE\\GRSE_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GICRE",
+    "document_type": "annual_report",
+    "title": "GICRE_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28105_GICRE_2024_2025_A_14693801_01092025230455.pdf",
+    "local_path": "documents\\GICRE\\GICRE_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GILLETTE",
+    "document_type": "annual_report",
+    "title": "GILLETTE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30265_GILLETTE_2025_2026_A_6201965_08082026173935.pdf",
+    "local_path": "documents\\GILLETTE\\GILLETTE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GLAND",
+    "document_type": "annual_report",
+    "title": "GLAND_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30114_GLAND_2025_2026_A_24848146_31072026202031.pdf",
+    "local_path": "documents\\GLAND\\GLAND_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GLAXO",
+    "document_type": "annual_report",
+    "title": "GLAXO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29355_GLAXO_2025_2026_A_25429245_05062026195218.pdf",
+    "local_path": "documents\\GLAXO\\GLAXO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GLENMARK",
+    "document_type": "annual_report",
+    "title": "GLENMARK_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27912_GLENMARK_2024_2025_A_22517117_29082025190827.pdf",
+    "local_path": "documents\\GLENMARK\\GLENMARK_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MEDANTA",
+    "document_type": "annual_report",
+    "title": "MEDANTA_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27634_MEDANTA_2024_2025_A_11846999_25082025154134.pdf",
+    "local_path": "documents\\MEDANTA\\MEDANTA_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GODIGIT",
+    "document_type": "annual_report",
+    "title": "GODIGIT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29795_GODIGIT_2025_2026_A_5429096_14072026203619.pdf",
+    "local_path": "documents\\GODIGIT\\GODIGIT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GPIL",
+    "document_type": "annual_report",
+    "title": "GPIL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27746_GPIL_2024_2025_A_10026837_26082025201408.pdf",
+    "local_path": "documents\\GPIL\\GPIL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GODFRYPHLP",
+    "document_type": "annual_report",
+    "title": "GODFRYPHLP_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30099_GODFRYPHLP_2025_2026_A_14158564_31072026162144.pdf",
+    "local_path": "documents\\GODFRYPHLP\\GODFRYPHLP_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GODREJCP",
+    "document_type": "annual_report",
+    "title": "GODREJCP_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_26977_GODREJCP_2024_2025_A_16072025185902.pdf",
+    "local_path": "documents\\GODREJCP\\GODREJCP_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GODREJIND",
+    "document_type": "annual_report",
+    "title": "GODREJIND_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29907_GODREJIND_2025_2026_A_11268620_20072026181505.pdf",
+    "local_path": "documents\\GODREJIND\\GODREJIND_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GODREJPROP",
+    "document_type": "annual_report",
+    "title": "GODREJPROP_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29650_GODREJPROP_2025_2026_A_25096475_08072026152536.pdf",
+    "local_path": "documents\\GODREJPROP\\GODREJPROP_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GRANULES",
+    "document_type": "annual_report",
+    "title": "GRANULES_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29802_GRANULES_2025_2026_A_23312938_15072026121157.pdf",
+    "local_path": "documents\\GRANULES\\GRANULES_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GRAPHITE",
+    "document_type": "annual_report",
+    "title": "GRAPHITE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29658_GRAPHITE_2025_2026_A_3368625_08072026165253.pdf",
+    "local_path": "documents\\GRAPHITE\\GRAPHITE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GRASIM",
+    "document_type": "annual_report",
+    "title": "GRASIM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29839_GRASIM_2025_2026_A_15553535_16072026224051.pdf",
+    "local_path": "documents\\GRASIM\\GRASIM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GRAVITA",
+    "document_type": "annual_report",
+    "title": "GRAVITA_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27409_GRAVITA_2024_2025_A_13082025152810.pdf",
+    "local_path": "documents\\GRAVITA\\GRAVITA_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GESHIP",
+    "document_type": "annual_report",
+    "title": "GESHIP_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29678_GESHIP_2025_2026_A_11453041_09072026152518.pdf",
+    "local_path": "documents\\GESHIP\\GESHIP_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "FLUOROCHEM",
+    "document_type": "annual_report",
+    "title": "FLUOROCHEM_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28452_FLUOROCHEM_2024_2025_A_14013276_04092025182835.pdf",
+    "local_path": "documents\\FLUOROCHEM\\FLUOROCHEM_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "GMDCLTD",
+    "document_type": "annual_report",
+    "title": "GMDCLTD_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27993_GMDCLTD_2024_2025_A_13091213_31082025202711.pdf",
+    "local_path": "documents\\GMDCLTD\\GMDCLTD_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HEG",
+    "document_type": "annual_report",
+    "title": "HEG_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29449_HEG_2025_2026_A_11390762_25062026163658.pdf",
+    "local_path": "documents\\HEG\\HEG_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HBLENGINE",
+    "document_type": "annual_report",
+    "title": "HBLENGINE_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28147_HBLENGINE_2024_2025_A_3612786_02092025161351.pdf",
+    "local_path": "documents\\HBLENGINE\\HBLENGINE_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HCLTECH",
+    "document_type": "annual_report",
+    "title": "HCLTECH_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29915_HCLTECH_2025_2026_A_16831072_20072026200555.pdf",
+    "local_path": "documents\\HCLTECH\\HCLTECH_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HDBFS",
+    "document_type": "annual_report",
+    "title": "HDBFS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29323_HDBFS_2025_2026_A_14173828_01062026192621.pdf",
+    "local_path": "documents\\HDBFS\\HDBFS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HDFCAMC",
+    "document_type": "annual_report",
+    "title": "HDFCAMC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29324_HDFCAMC_2025_2026_A_8449172_01062026213811.pdf",
+    "local_path": "documents\\HDFCAMC\\HDFCAMC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HDFCBANK",
+    "document_type": "annual_report",
+    "title": "HDFCBANK_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29735_HDFCBANK_2025_2026_A_12667766_11072026001055.pdf",
+    "local_path": "documents\\HDFCBANK\\HDFCBANK_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HDFCLIFE",
+    "document_type": "annual_report",
+    "title": "HDFCLIFE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29439_HDFCLIFE_2025_2026_A_9888379_24062026213413.pdf",
+    "local_path": "documents\\HDFCLIFE\\HDFCLIFE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HFCL",
+    "document_type": "annual_report",
+    "title": "HFCL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27550_HFCL_2024_2025_A_21082025172228.pdf",
+    "local_path": "documents\\HFCL\\HFCL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HAVELLS",
+    "document_type": "annual_report",
+    "title": "HAVELLS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29260_HAVELLS_2025_2026_A_55276022_15052026140712.pdf",
+    "local_path": "documents\\HAVELLS\\HAVELLS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HEROMOTOCO",
+    "document_type": "annual_report",
+    "title": "HEROMOTOCO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29729_HEROMOTOCO_2025_2026_A_25272589_10072026214342.pdf",
+    "local_path": "documents\\HEROMOTOCO\\HEROMOTOCO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HEXT",
+    "document_type": "annual_report",
+    "title": "HEXT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29245_HEXT_2025_2025_A_9481938_10042026211322.pdf",
+    "local_path": "documents\\HEXT\\HEXT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HSCL",
+    "document_type": "annual_report",
+    "title": "HSCL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29261_HSCL_2025_2026_A_14131879_15052026180133.pdf",
+    "local_path": "documents\\HSCL\\HSCL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HINDALCO",
+    "document_type": "annual_report",
+    "title": "HINDALCO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29503_HINDALCO_2025_2026_A_17392633_30062026203313.pdf",
+    "local_path": "documents\\HINDALCO\\HINDALCO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HAL",
+    "document_type": "annual_report",
+    "title": "HAL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30166_HAL_2025_2026_U_12603450_04082026103759.pdf",
+    "local_path": "documents\\HAL\\HAL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HINDCOPPER",
+    "document_type": "annual_report",
+    "title": "HINDCOPPER_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27907_HINDCOPPER_2024_2025_A_24882840_29082025184754.pdf",
+    "local_path": "documents\\HINDCOPPER\\HINDCOPPER_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HINDPETRO",
+    "document_type": "annual_report",
+    "title": "HINDPETRO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30104_HINDPETRO_2025_2026_A_24302529_31072026174034.pdf",
+    "local_path": "documents\\HINDPETRO\\HINDPETRO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "document_type": "annual_report",
+    "title": "HINDUNILVR_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29330_HINDUNILVR_2025_2026_A_21643813_02062026215058.pdf",
+    "local_path": "documents\\HINDUNILVR\\HINDUNILVR_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HINDZINC",
+    "document_type": "annual_report",
+    "title": "HINDZINC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29349_HINDZINC_2025_2026_A_20195576_05062026130301.pdf",
+    "local_path": "documents\\HINDZINC\\HINDZINC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "POWERINDIA",
+    "document_type": "annual_report",
+    "title": "POWERINDIA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30092_POWERINDIA_2025_2026_A_8152819_31072026141512.pdf",
+    "local_path": "documents\\POWERINDIA\\POWERINDIA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HOMEFIRST",
+    "document_type": "annual_report",
+    "title": "HOMEFIRST_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29294_HOMEFIRST_2025_2026_A_17529634_29052026185800.pdf",
+    "local_path": "documents\\HOMEFIRST\\HOMEFIRST_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HONASA",
+    "document_type": "annual_report",
+    "title": "HONASA_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28098_HONASA_2024_2025_A_12696883_01092025210648.pdf",
+    "local_path": "documents\\HONASA\\HONASA_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HONAUT",
+    "document_type": "annual_report",
+    "title": "HONAUT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30065_HONAUT_2025_2026_U_7292534_29072026234039.pdf",
+    "local_path": "documents\\HONAUT\\HONAUT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HUDCO",
+    "document_type": "annual_report",
+    "title": "HUDCO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30079_HUDCO_2025_2026_A_12340668_30072026191916.pdf",
+    "local_path": "documents\\HUDCO\\HUDCO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "HYUNDAI",
+    "document_type": "annual_report",
+    "title": "HYUNDAI_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30153_HYUNDAI_2025_2026_A_16856275_03082026182423.pdf",
+    "local_path": "documents\\HYUNDAI\\HYUNDAI_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ICICIBANK",
+    "document_type": "annual_report",
+    "title": "ICICIBANK_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29895_ICICIBANK_2025_2026_A_23776312_18072026185534.pdf",
+    "local_path": "documents\\ICICIBANK\\ICICIBANK_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ICICIGI",
+    "document_type": "annual_report",
+    "title": "ICICIGI_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29280_ICICIGI_2025_2026_A_27611504_27052026031350.pdf",
+    "local_path": "documents\\ICICIGI\\ICICIGI_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ICICIAMC",
+    "document_type": "annual_report",
+    "title": "ICICIAMC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29289_ICICIAMC_2025_2026_A_8832541_29052026143719.pdf",
+    "local_path": "documents\\ICICIAMC\\ICICIAMC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "document_type": "annual_report",
+    "title": "ICICIPRULI_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29343_ICICIPRULI_2025_2026_A_19083291_04062026195330.pdf",
+    "local_path": "documents\\ICICIPRULI\\ICICIPRULI_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "IDBI",
+    "document_type": "annual_report",
+    "title": "IDBI_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29451_IDBI_2025_2026_A_28916527_25062026182148.pdf",
+    "local_path": "documents\\IDBI\\IDBI_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "IDFCFIRSTB",
+    "document_type": "annual_report",
+    "title": "IDFCFIRSTB_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30273_IDFCFIRSTB_2025_2026_A_16259742_08082026235954.pdf",
+    "local_path": "documents\\IDFCFIRSTB\\IDFCFIRSTB_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "IFCI",
+    "document_type": "annual_report",
+    "title": "IFCI_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29156_IFCI_2024_2025_A_8668157_06102025191915.pdf",
+    "local_path": "documents\\IFCI\\IFCI_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "IIFL",
+    "document_type": "annual_report",
+    "title": "IIFL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29509_IIFL_2025_2026_A_22322551_30062026231858.pdf",
+    "local_path": "documents\\IIFL\\IIFL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "IRB",
+    "document_type": "annual_report",
+    "title": "IRB_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27608_IRB_2024_2025_A_16029016_23082025162146.pdf",
+    "local_path": "documents\\IRB\\IRB_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "IRCON",
+    "document_type": "annual_report",
+    "title": "IRCON_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27623_IRCON_2024_2025_A_7898609_25082025124424.pdf",
+    "local_path": "documents\\IRCON\\IRCON_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ITCHOTELS",
+    "document_type": "annual_report",
+    "title": "ITCHOTELS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29739_ITCHOTELS_2025_2026_A_9370927_11072026133005.pdf",
+    "local_path": "documents\\ITCHOTELS\\ITCHOTELS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ITC",
+    "document_type": "annual_report",
+    "title": "ITC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29459_ITC_2025_2026_A_14678177_26062026165422.pdf",
+    "local_path": "documents\\ITC\\ITC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ITI",
+    "document_type": "annual_report",
+    "title": "ITI_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29161_ITI_2024_2025_A_6644235_18102025115012.pdf",
+    "local_path": "documents\\ITI\\ITI_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "INDGN",
+    "document_type": "annual_report",
+    "title": "INDGN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29846_INDGN_2025_2026_A_20595305_17072026125739.pdf",
+    "local_path": "documents\\INDGN\\INDGN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "INDIACEM",
+    "document_type": "annual_report",
+    "title": "INDIACEM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29876_INDIACEM_2025_2026_A_2407224_17072026210449.pdf",
+    "local_path": "documents\\INDIACEM\\INDIACEM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "INDIAMART",
+    "document_type": "annual_report",
+    "title": "INDIAMART_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29327_INDIAMART_2025_2026_A_18518017_02062026161513.pdf",
+    "local_path": "documents\\INDIAMART\\INDIAMART_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "INDIANB",
+    "document_type": "annual_report",
+    "title": "INDIANB_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29272_INDIANB_2025_2026_A_9366117_23052026025401.pdf",
+    "local_path": "documents\\INDIANB\\INDIANB_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "IEX",
+    "document_type": "annual_report",
+    "title": "IEX_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27477_IEX_2024_2025_A_18082025164257.pdf",
+    "local_path": "documents\\IEX\\IEX_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "INDHOTEL",
+    "document_type": "annual_report",
+    "title": "INDHOTEL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29344_INDHOTEL_2025_2026_A_22274407_04062026210712.pdf",
+    "local_path": "documents\\INDHOTEL\\INDHOTEL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "IOC",
+    "document_type": "annual_report",
+    "title": "IOC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30245_IOC_2025_2026_A_23732335_07082026170311.pdf",
+    "local_path": "documents\\IOC\\IOC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "IOB",
+    "document_type": "annual_report",
+    "title": "IOB_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29382_IOB_2025_2026_A_26804968_11062026170135.pdf",
+    "local_path": "documents\\IOB\\IOB_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "IRCTC",
+    "document_type": "annual_report",
+    "title": "IRCTC_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27340_IRCTC_2024_2025_A_07082025185707.pdf",
+    "local_path": "documents\\IRCTC\\IRCTC_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "IRFC",
+    "document_type": "annual_report",
+    "title": "IRFC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30131_IRFC_2025_2026_A_10215459_01082026180828.pdf",
+    "local_path": "documents\\IRFC\\IRFC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "IREDA",
+    "document_type": "annual_report",
+    "title": "IREDA_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_26910_IREDA_2024_2025_A_14072025181523.pdf",
+    "local_path": "documents\\IREDA\\IREDA_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "IGL",
+    "document_type": "annual_report",
+    "title": "IGL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28251_IGL_2024_2025_A_7442274_03092025124723.pdf",
+    "local_path": "documents\\IGL\\IGL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "INDUSTOWER",
+    "document_type": "annual_report",
+    "title": "INDUSTOWER_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30047_INDUSTOWER_2025_2026_A_15018330_28072026233551.pdf",
+    "local_path": "documents\\INDUSTOWER\\INDUSTOWER_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "INDUSINDBK",
+    "document_type": "annual_report",
+    "title": "INDUSINDBK_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30216_INDUSINDBK_2025_2026_A_9505621_05082026211258.pdf",
+    "local_path": "documents\\INDUSINDBK\\INDUSINDBK_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NAUKRI",
+    "document_type": "annual_report",
+    "title": "NAUKRI_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30117_NAUKRI_2025_2026_A_25732344_31072026212507.pdf",
+    "local_path": "documents\\NAUKRI\\NAUKRI_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "INFY",
+    "document_type": "annual_report",
+    "title": "INFY_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29313_INFY_2025_2026_U_8985411_30052026200413.pdf",
+    "local_path": "documents\\INFY\\INFY_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "INOXWIND",
+    "document_type": "annual_report",
+    "title": "INOXWIND_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28518_INOXWIND_2024_2025_A_6941985_04092025235512.pdf",
+    "local_path": "documents\\INOXWIND\\INOXWIND_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "INTELLECT",
+    "document_type": "annual_report",
+    "title": "INTELLECT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29583_INTELLECT_2025_2026_A_18009306_06072026171928.pdf",
+    "local_path": "documents\\INTELLECT\\INTELLECT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "INDIGO",
+    "document_type": "annual_report",
+    "title": "INDIGO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30032_INDIGO_2025_2026_A_16514151_28072026132713.pdf",
+    "local_path": "documents\\INDIGO\\INDIGO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "IGIL",
+    "document_type": "annual_report",
+    "title": "IGIL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29969_IGIL_2025_2026_A_18695851_23072026182421.pdf",
+    "local_path": "documents\\IGIL\\IGIL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "IKS",
+    "document_type": "annual_report",
+    "title": "IKS_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27941_IKS_2024_2025_A_11560659_30082025134401.pdf",
+    "local_path": "documents\\IKS\\IKS_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "IPCALAB",
+    "document_type": "annual_report",
+    "title": "IPCALAB_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29775_IPCALAB_2025_2026_A_2816913_14072026101841.pdf",
+    "local_path": "documents\\IPCALAB\\IPCALAB_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JKCEMENT",
+    "document_type": "annual_report",
+    "title": "JKCEMENT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29456_JKCEMENT_2025_2026_A_18229975_25062026235032.pdf",
+    "local_path": "documents\\JKCEMENT\\JKCEMENT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JBMA",
+    "document_type": "annual_report",
+    "title": "JBMA_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27382_JBMA_2024_2025_A_11082025231219.pdf",
+    "local_path": "documents\\JBMA\\JBMA_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JKTYRE",
+    "document_type": "annual_report",
+    "title": "JKTYRE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29763_JKTYRE_2025_2026_A_14652161_13072026181852.pdf",
+    "local_path": "documents\\JKTYRE\\JKTYRE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JMFINANCIL",
+    "document_type": "annual_report",
+    "title": "JMFINANCIL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29733_JMFINANCIL_2025_2026_A_15110568_10072026230703.pdf",
+    "local_path": "documents\\JMFINANCIL\\JMFINANCIL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JSWCEMENT",
+    "document_type": "annual_report",
+    "title": "JSWCEMENT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29681_JSWCEMENT_2025_2026_A_21769121_09072026164030.pdf",
+    "local_path": "documents\\JSWCEMENT\\JSWCEMENT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JSWDULUX",
+    "document_type": "annual_report",
+    "title": "JSWDULUX_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29397_JSWDULUX_2025_2026_A_11807934_16062026155518.pdf",
+    "local_path": "documents\\JSWDULUX\\JSWDULUX_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JSWENERGY",
+    "document_type": "annual_report",
+    "title": "JSWENERGY_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29400_JSWENERGY_2025_2026_A_16735826_16062026235243.pdf",
+    "local_path": "documents\\JSWENERGY\\JSWENERGY_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JSWINFRA",
+    "document_type": "annual_report",
+    "title": "JSWINFRA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29954_JSWINFRA_2025_2026_A_16026032_22072026212537.pdf",
+    "local_path": "documents\\JSWINFRA\\JSWINFRA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "document_type": "annual_report",
+    "title": "JSWSTEEL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29544_JSWSTEEL_2025_2026_A_28674117_02072026222732.pdf",
+    "local_path": "documents\\JSWSTEEL\\JSWSTEEL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JAINREC",
+    "document_type": "annual_report",
+    "title": "JAINREC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30218_JAINREC_2025_2026_A_13856134_05082026215725.pdf",
+    "local_path": "documents\\JAINREC\\JAINREC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JPPOWER",
+    "document_type": "annual_report",
+    "title": "JPPOWER_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29568_JPPOWER_2025_2026_A_3800670_04072026150528.pdf",
+    "local_path": "documents\\JPPOWER\\JPPOWER_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "J&KBANK",
+    "document_type": "annual_report",
+    "title": "J_KBANK_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27747_J&KBANK_2024_2025_U_7955294_26082025203425.pdf",
+    "local_path": "documents\\J&KBANK\\J_KBANK_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JINDALSAW",
+    "document_type": "annual_report",
+    "title": "JINDALSAW_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29254_JINDALSAW_2025_2026_A_9064277_07052026180210.pdf",
+    "local_path": "documents\\JINDALSAW\\JINDALSAW_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JSL",
+    "document_type": "annual_report",
+    "title": "JSL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30270_JSL_2025_2026_A_24257703_08082026203630.pdf",
+    "local_path": "documents\\JSL\\JSL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JINDALSTEL",
+    "document_type": "annual_report",
+    "title": "JINDALSTEL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30228_JINDALSTEL_2025_2026_A_13298510_06082026182356.pdf",
+    "local_path": "documents\\JINDALSTEL\\JINDALSTEL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JIOFIN",
+    "document_type": "annual_report",
+    "title": "JIOFIN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30141_JIOFIN_2025_2026_A_8079244_03082026130114.pdf",
+    "local_path": "documents\\JIOFIN\\JIOFIN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JUBLFOOD",
+    "document_type": "annual_report",
+    "title": "JUBLFOOD_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30119_JUBLFOOD_2025_2026_A_9053532_31072026223125.pdf",
+    "local_path": "documents\\JUBLFOOD\\JUBLFOOD_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JUBLINGREA",
+    "document_type": "annual_report",
+    "title": "JUBLINGREA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30130_JUBLINGREA_2025_2026_A_9148569_01082026174958.pdf",
+    "local_path": "documents\\JUBLINGREA\\JUBLINGREA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JUBLPHARMA",
+    "document_type": "annual_report",
+    "title": "JUBLPHARMA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30137_JUBLPHARMA_2025_2026_A_10572064_01082026223305.pdf",
+    "local_path": "documents\\JUBLPHARMA\\JUBLPHARMA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JWL",
+    "document_type": "annual_report",
+    "title": "JWL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27897_JWL_2024_2025_A_16674242_29082025181308.pdf",
+    "local_path": "documents\\JWL\\JWL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "JYOTICNC",
+    "document_type": "annual_report",
+    "title": "JYOTICNC_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29032_JYOTICNC_2024_2025_U_6194703_12092025165328.pdf",
+    "local_path": "documents\\JYOTICNC\\JYOTICNC_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "KPRMILL",
+    "document_type": "annual_report",
+    "title": "KPRMILL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29464_KPRMILL_2025_2026_A_4793355_27062026112749.pdf",
+    "local_path": "documents\\KPRMILL\\KPRMILL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "KEI",
+    "document_type": "annual_report",
+    "title": "KEI_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_26768_KEI_2024_2025_A_07072025150906.pdf",
+    "local_path": "documents\\KEI\\KEI_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "KPITTECH",
+    "document_type": "annual_report",
+    "title": "KPITTECH_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30212_KPITTECH_2025_2026_A_10301220_05082026200744.pdf",
+    "local_path": "documents\\KPITTECH\\KPITTECH_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "KAJARIACER",
+    "document_type": "annual_report",
+    "title": "KAJARIACER_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28584_KAJARIACER_2024_2025_A_13680913_05092025165044.pdf",
+    "local_path": "documents\\KAJARIACER\\KAJARIACER_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "KPIL",
+    "document_type": "annual_report",
+    "title": "KPIL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29422_KPIL_2025_2026_A_28997944_22062026144329.pdf",
+    "local_path": "documents\\KPIL\\KPIL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "KALYANKJIL",
+    "document_type": "annual_report",
+    "title": "KALYANKJIL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27422_KALYANKJIL_2024_2025_A_14082025120016.pdf",
+    "local_path": "documents\\KALYANKJIL\\KALYANKJIL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "KARURVYSYA",
+    "document_type": "annual_report",
+    "title": "KARURVYSYA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29772_KARURVYSYA_2025_2026_A_17472285_13072026221658.pdf",
+    "local_path": "documents\\KARURVYSYA\\KARURVYSYA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "KAYNES",
+    "document_type": "annual_report",
+    "title": "KAYNES_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27506_KAYNES_2024_2025_A_19082025183406.pdf",
+    "local_path": "documents\\KAYNES\\KAYNES_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "KEC",
+    "document_type": "annual_report",
+    "title": "KEC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30057_KEC_2025_2026_A_13078882_29072026201039.pdf",
+    "local_path": "documents\\KEC\\KEC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "KFINTECH",
+    "document_type": "annual_report",
+    "title": "KFINTECH_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29488_KFINTECH_2025_2026_A_347570_29062026234224.pdf",
+    "local_path": "documents\\KFINTECH\\KFINTECH_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "KIRLOSENG",
+    "document_type": "annual_report",
+    "title": "KIRLOSENG_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29770_KIRLOSENG_2025_2026_A_19108253_13072026203041.pdf",
+    "local_path": "documents\\KIRLOSENG\\KIRLOSENG_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "document_type": "annual_report",
+    "title": "KOTAKBANK_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27794_KOTAKBANK_2024_2025_A_12174639_28082025142226.pdf",
+    "local_path": "documents\\KOTAKBANK\\KOTAKBANK_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "KIMS",
+    "document_type": "annual_report",
+    "title": "KIMS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30217_KIMS_2025_2026_A_11236160_05082026214030.pdf",
+    "local_path": "documents\\KIMS\\KIMS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "LTF",
+    "document_type": "annual_report",
+    "title": "LTF_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29252_LTF_2025_2026_A_21164162_04052026204521.pdf",
+    "local_path": "documents\\LTF\\LTF_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "LTTS",
+    "document_type": "annual_report",
+    "title": "LTTS_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_26449_LTTS_2024_2025_A_23052025215656.pdf",
+    "local_path": "documents\\LTTS\\LTTS_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "LGEINDIA",
+    "document_type": "annual_report",
+    "title": "LGEINDIA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30061_LGEINDIA_2025_2026_A_26260511_29072026220212.pdf",
+    "local_path": "documents\\LGEINDIA\\LGEINDIA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "LICHSGFIN",
+    "document_type": "annual_report",
+    "title": "LICHSGFIN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30170_LICHSGFIN_2025_2026_A_9326176_04082026121709.pdf",
+    "local_path": "documents\\LICHSGFIN\\LICHSGFIN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "LTFOODS",
+    "document_type": "annual_report",
+    "title": "LTFOODS_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28983_LTFOODS_2024_2025_A_8612205_08092025224435.pdf",
+    "local_path": "documents\\LTFOODS\\LTFOODS_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "LTM",
+    "document_type": "annual_report",
+    "title": "LTM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29256_LTM_2025_2026_A_11452441_08052026131448.pdf",
+    "local_path": "documents\\LTM\\LTM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "LT",
+    "document_type": "annual_report",
+    "title": "LT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29259_LT_2025_2026_A_29793480_14052026183032.pdf",
+    "local_path": "documents\\LT\\LT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "LATENTVIEW",
+    "document_type": "annual_report",
+    "title": "LATENTVIEW_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29634_LATENTVIEW_2025_2026_A_13703445_07072026185706.pdf",
+    "local_path": "documents\\LATENTVIEW\\LATENTVIEW_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "LAURUSLABS",
+    "document_type": "annual_report",
+    "title": "LAURUSLABS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29364_LAURUSLABS_2025_2026_A_19085196_08062026160805.pdf",
+    "local_path": "documents\\LAURUSLABS\\LAURUSLABS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "THELEELA",
+    "document_type": "annual_report",
+    "title": "THELEELA_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27723_THELEELA_2024_2025_A_42763907_26082025180139.pdf",
+    "local_path": "documents\\THELEELA\\THELEELA_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "LEMONTREE",
+    "document_type": "annual_report",
+    "title": "LEMONTREE_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28370_LEMONTREE_2024_2025_A_14010413_03092025212726.pdf",
+    "local_path": "documents\\LEMONTREE\\LEMONTREE_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "LENSKART",
+    "document_type": "annual_report",
+    "title": "LENSKART_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29995_LENSKART_2025_2026_A_61306341_24072026231635.pdf",
+    "local_path": "documents\\LENSKART\\LENSKART_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "LICI",
+    "document_type": "annual_report",
+    "title": "LICI_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29565_LICI_2025_2026_A_11549718_03072026201641.pdf",
+    "local_path": "documents\\LICI\\LICI_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "LINDEINDIA",
+    "document_type": "annual_report",
+    "title": "LINDEINDIA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29900_LINDEINDIA_2025_2026_A_4369499_20072026161816.pdf",
+    "local_path": "documents\\LINDEINDIA\\LINDEINDIA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "LLOYDSME",
+    "document_type": "annual_report",
+    "title": "LLOYDSME_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29274_LLOYDSME_2025_2026_A_105568464_25052026212404.pdf",
+    "local_path": "documents\\LLOYDSME\\LLOYDSME_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "LODHA",
+    "document_type": "annual_report",
+    "title": "LODHA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29722_LODHA_2025_2026_A_12143464_10072026180609.pdf",
+    "local_path": "documents\\LODHA\\LODHA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "LUPIN",
+    "document_type": "annual_report",
+    "title": "LUPIN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29769_LUPIN_2025_2026_A_22791410_13072026201318.pdf",
+    "local_path": "documents\\LUPIN\\LUPIN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MMTC",
+    "document_type": "annual_report",
+    "title": "MMTC_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28022_MMTC_2024_2025_A_20475904_01092025143854.pdf",
+    "local_path": "documents\\MMTC\\MMTC_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MRF",
+    "document_type": "annual_report",
+    "title": "MRF_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29789_MRF_2025_2026_A_5753728_14072026182847.pdf",
+    "local_path": "documents\\MRF\\MRF_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MGL",
+    "document_type": "annual_report",
+    "title": "MGL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27211_MGL_2024_2025_A_31072025223805.pdf",
+    "local_path": "documents\\MGL\\MGL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "M&MFIN",
+    "document_type": "annual_report",
+    "title": "M_MFIN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29455_M&MFIN_2025_2026_A_14497256_25062026233609.pdf",
+    "local_path": "documents\\M&MFIN\\M_MFIN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "M&M",
+    "document_type": "annual_report",
+    "title": "M_M_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29572_M&M_2025_2026_A_16591991_04072026174358.pdf",
+    "local_path": "documents\\M&M\\M_M_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MANAPPURAM",
+    "document_type": "annual_report",
+    "title": "MANAPPURAM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29919_MANAPPURAM_2025_2026_A_20676294_20072026210606.pdf",
+    "local_path": "documents\\MANAPPURAM\\MANAPPURAM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MRPL",
+    "document_type": "annual_report",
+    "title": "MRPL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29967_MRPL_2025_2026_A_12052715_23072026175544.pdf",
+    "local_path": "documents\\MRPL\\MRPL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MANKIND",
+    "document_type": "annual_report",
+    "title": "MANKIND_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29682_MANKIND_2025_2026_A_16593335_09072026165705.pdf",
+    "local_path": "documents\\MANKIND\\MANKIND_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MARICO",
+    "document_type": "annual_report",
+    "title": "MARICO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29675_MARICO_2025_2026_A_25834811_09072026124936.pdf",
+    "local_path": "documents\\MARICO\\MARICO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MARUTI",
+    "document_type": "annual_report",
+    "title": "MARUTI_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30271_MARUTI_2025_2026_A_19335803_08082026213212.pdf",
+    "local_path": "documents\\MARUTI\\MARUTI_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MFSL",
+    "document_type": "annual_report",
+    "title": "MFSL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30013_MFSL_2025_2026_A_3885639_27072026134319.pdf",
+    "local_path": "documents\\MFSL\\MFSL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MAXHEALTH",
+    "document_type": "annual_report",
+    "title": "MAXHEALTH_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29667_MAXHEALTH_2025_2026_A_14660266_08072026194209.pdf",
+    "local_path": "documents\\MAXHEALTH\\MAXHEALTH_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MAZDOCK",
+    "document_type": "annual_report",
+    "title": "MAZDOCK_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30197_MAZDOCK_2025_2026_A_10030945_04082026232242.pdf",
+    "local_path": "documents\\MAZDOCK\\MAZDOCK_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MEESHO",
+    "document_type": "annual_report",
+    "title": "No annual reports found",
+    "source_url": "",
+    "local_path": "",
+    "status": "missing",
+    "error": ""
+  },
+  {
+    "symbol": "MINDACORP",
+    "document_type": "annual_report",
+    "title": "MINDACORP_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30048_MINDACORP_2025_2026_A_20207494_29072026094753.pdf",
+    "local_path": "documents\\MINDACORP\\MINDACORP_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MSUMI",
+    "document_type": "annual_report",
+    "title": "MSUMI_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29598_MSUMI_2025_2026_A_8936366_06072026202733.pdf",
+    "local_path": "documents\\MSUMI\\MSUMI_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MOTILALOFS",
+    "document_type": "annual_report",
+    "title": "MOTILALOFS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29486_MOTILALOFS_2025_2026_U_14369879_29062026211120.pdf",
+    "local_path": "documents\\MOTILALOFS\\MOTILALOFS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MPHASIS",
+    "document_type": "annual_report",
+    "title": "MPHASIS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29531_MPHASIS_2025_2026_U_9713391_02072026152340.pdf",
+    "local_path": "documents\\MPHASIS\\MPHASIS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MCX",
+    "document_type": "annual_report",
+    "title": "No annual reports found",
+    "source_url": "",
+    "local_path": "",
+    "status": "missing",
+    "error": ""
+  },
+  {
+    "symbol": "MUTHOOTFIN",
+    "document_type": "annual_report",
+    "title": "MUTHOOTFIN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30252_MUTHOOTFIN_2025_2026_A_13395193_07082026203438.pdf",
+    "local_path": "documents\\MUTHOOTFIN\\MUTHOOTFIN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NATCOPHARM",
+    "document_type": "annual_report",
+    "title": "NATCOPHARM_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27894_NATCOPHARM_2024_2025_A_14237439_29082025180426.pdf",
+    "local_path": "documents\\NATCOPHARM\\NATCOPHARM_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NBCC",
+    "document_type": "annual_report",
+    "title": "NBCC_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28237_NBCC_2024_2025_A_13280882_02092025222649.pdf",
+    "local_path": "documents\\NBCC\\NBCC_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NCC",
+    "document_type": "annual_report",
+    "title": "NCC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30022_NCC_2025_2026_A_21203392_27072026180133.pdf",
+    "local_path": "documents\\NCC\\NCC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NHPC",
+    "document_type": "annual_report",
+    "title": "NHPC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30200_NHPC_2025_2026_A_20553887_05082026133418.pdf",
+    "local_path": "documents\\NHPC\\NHPC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NLCINDIA",
+    "document_type": "annual_report",
+    "title": "NLCINDIA_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28519_NLCINDIA_2024_2025_A_13380081_05092025001035.pdf",
+    "local_path": "documents\\NLCINDIA\\NLCINDIA_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NMDC",
+    "document_type": "annual_report",
+    "title": "NMDC_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27319_NMDC_2024_2025_A_06082025235818.pdf",
+    "local_path": "documents\\NMDC\\NMDC_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NSLNISP",
+    "document_type": "annual_report",
+    "title": "NSLNISP_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27318_NSLNISP_2024_2025_A_06082025235152.pdf",
+    "local_path": "documents\\NSLNISP\\NSLNISP_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NTPCGREEN",
+    "document_type": "annual_report",
+    "title": "NTPCGREEN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30209_NTPCGREEN_2025_2026_A_11591509_05082026165122.pdf",
+    "local_path": "documents\\NTPCGREEN\\NTPCGREEN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NTPC",
+    "document_type": "annual_report",
+    "title": "NTPC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30191_NTPC_2025_2026_A_27519509_04082026185125.pdf",
+    "local_path": "documents\\NTPC\\NTPC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NH",
+    "document_type": "annual_report",
+    "title": "NH_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29975_NH_2025_2026_A_9187134_24072026000959.pdf",
+    "local_path": "documents\\NH\\NH_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NATIONALUM",
+    "document_type": "annual_report",
+    "title": "NATIONALUM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30246_NATIONALUM_2025_2026_A_13112724_07082026175227.pdf",
+    "local_path": "documents\\NATIONALUM\\NATIONALUM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NAVA",
+    "document_type": "annual_report",
+    "title": "NAVA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30151_NAVA_2025_2026_A_12103520_03082026173314.pdf",
+    "local_path": "documents\\NAVA\\NAVA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NAVINFLUOR",
+    "document_type": "annual_report",
+    "title": "NAVINFLUOR_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29815_NAVINFLUOR_2025_2026_A_19904177_15072026213345.pdf",
+    "local_path": "documents\\NAVINFLUOR\\NAVINFLUOR_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NESTLEIND",
+    "document_type": "annual_report",
+    "title": "NESTLEIND_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29352_NESTLEIND_2025_2026_A_19722134_05062026154628.pdf",
+    "local_path": "documents\\NESTLEIND\\NESTLEIND_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NETWEB",
+    "document_type": "annual_report",
+    "title": "NETWEB_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27282_NETWEB_2024_2025_A_05082025161717.pdf",
+    "local_path": "documents\\NETWEB\\NETWEB_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NEULANDLAB",
+    "document_type": "annual_report",
+    "title": "NEULANDLAB_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29686_NEULANDLAB_2025_2026_A_23292574_09072026192630.pdf",
+    "local_path": "documents\\NEULANDLAB\\NEULANDLAB_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NEWGEN",
+    "document_type": "annual_report",
+    "title": "NEWGEN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29482_NEWGEN_2025_2026_A_11378790_29062026164039.pdf",
+    "local_path": "documents\\NEWGEN\\NEWGEN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NAM-INDIA",
+    "document_type": "annual_report",
+    "title": "NAM-INDIA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29394_NAM-INDIA_2025_2026_A_16078277_15062026213128.pdf",
+    "local_path": "documents\\NAM-INDIA\\NAM-INDIA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NIVABUPA",
+    "document_type": "annual_report",
+    "title": "NIVABUPA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29857_NIVABUPA_2025_2026_A_9451873_17072026170419.pdf",
+    "local_path": "documents\\NIVABUPA\\NIVABUPA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NUVAMA",
+    "document_type": "annual_report",
+    "title": "NUVAMA_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27847_NUVAMA_2024_2025_A_10533297_28082025205337.pdf",
+    "local_path": "documents\\NUVAMA\\NUVAMA_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NUVOCO",
+    "document_type": "annual_report",
+    "title": "NUVOCO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30237_NUVOCO_2025_2026_A_13682478_07082026145757.pdf",
+    "local_path": "documents\\NUVOCO\\NUVOCO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "OBEROIRLTY",
+    "document_type": "annual_report",
+    "title": "OBEROIRLTY_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29333_OBEROIRLTY_2025_2026_A_6520328_03062026181013.pdf",
+    "local_path": "documents\\OBEROIRLTY\\OBEROIRLTY_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ONGC",
+    "document_type": "annual_report",
+    "title": "ONGC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30250_ONGC_2025_2026_A_16548337_07082026200935.pdf",
+    "local_path": "documents\\ONGC\\ONGC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "OIL",
+    "document_type": "annual_report",
+    "title": "OIL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27712_OIL_2024_2025_A_7411406_26082025171959.pdf",
+    "local_path": "documents\\OIL\\OIL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "OLAELEC",
+    "document_type": "annual_report",
+    "title": "OLAELEC_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27212_OLAELEC_2024_2025_U_31072025225525.pdf",
+    "local_path": "documents\\OLAELEC\\OLAELEC_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "OLECTRA",
+    "document_type": "annual_report",
+    "title": "OLECTRA_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27908_OLECTRA_2024_2025_A_4287885_29082025185910.pdf",
+    "local_path": "documents\\OLECTRA\\OLECTRA_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PAYTM",
+    "document_type": "annual_report",
+    "title": "PAYTM_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29045_PAYTM_2024_2025_A_3803865_15092025203642.pdf",
+    "local_path": "documents\\PAYTM\\PAYTM_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ONESOURCE",
+    "document_type": "annual_report",
+    "title": "ONESOURCE_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27906_ONESOURCE_2024_2025_A_11865856_29082025184609.pdf",
+    "local_path": "documents\\ONESOURCE\\ONESOURCE_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "OFSS",
+    "document_type": "annual_report",
+    "title": "OFSS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29452_OFSS_2025_2026_A_4381822_25062026191736.pdf",
+    "local_path": "documents\\OFSS\\OFSS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "POLICYBZR",
+    "document_type": "annual_report",
+    "title": "POLICYBZR_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28464_POLICYBZR_2024_2025_A_12685765_04092025185749.pdf",
+    "local_path": "documents\\POLICYBZR\\POLICYBZR_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PCBL",
+    "document_type": "annual_report",
+    "title": "PCBL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29093_PCBL_2024_2025_A_34685754_16092025130338.pdf",
+    "local_path": "documents\\PCBL\\PCBL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PGEL",
+    "document_type": "annual_report",
+    "title": "PGEL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27977_PGEL_2024_2025_A_5368178_30082025210230.pdf",
+    "local_path": "documents\\PGEL\\PGEL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PIIND",
+    "document_type": "annual_report",
+    "title": "PIIND_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29899_PIIND_2025_2026_A_15366965_20072026150521.pdf",
+    "local_path": "documents\\PIIND\\PIIND_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PNBHOUSING",
+    "document_type": "annual_report",
+    "title": "PNBHOUSING_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29963_PNBHOUSING_2025_2026_A_8679022_23072026165323.pdf",
+    "local_path": "documents\\PNBHOUSING\\PNBHOUSING_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PTCIL",
+    "document_type": "annual_report",
+    "title": "PTCIL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28494_PTCIL_2024_2025_A_7340086_04092025204605.pdf",
+    "local_path": "documents\\PTCIL\\PTCIL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PVRINOX",
+    "document_type": "annual_report",
+    "title": "PVRINOX_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27424_PVRINOX_2024_2025_A_14082025121404.pdf",
+    "local_path": "documents\\PVRINOX\\PVRINOX_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PAGEIND",
+    "document_type": "annual_report",
+    "title": "PAGEIND_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29825_PAGEIND_2025_2026_A_23199413_16072026161638.pdf",
+    "local_path": "documents\\PAGEIND\\PAGEIND_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PARADEEP",
+    "document_type": "annual_report",
+    "title": "PARADEEP_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27523_PARADEEP_2024_2025_A_20082025162525.pdf",
+    "local_path": "documents\\PARADEEP\\PARADEEP_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PATANJALI",
+    "document_type": "annual_report",
+    "title": "PATANJALI_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28407_PATANJALI_2024_2025_A_19135743_04092025145614.pdf",
+    "local_path": "documents\\PATANJALI\\PATANJALI_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PERSISTENT",
+    "document_type": "annual_report",
+    "title": "PERSISTENT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29736_PERSISTENT_2025_2026_A_5858358_11072026074434.pdf",
+    "local_path": "documents\\PERSISTENT\\PERSISTENT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PETRONET",
+    "document_type": "annual_report",
+    "title": "PETRONET_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28095_PETRONET_2024_2025_U_17433155_01092025204906.pdf",
+    "local_path": "documents\\PETRONET\\PETRONET_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PFIZER",
+    "document_type": "annual_report",
+    "title": "PFIZER_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29599_PFIZER_2025_2026_A_33771767_06072026215157.pdf",
+    "local_path": "documents\\PFIZER\\PFIZER_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PHOENIXLTD",
+    "document_type": "annual_report",
+    "title": "PHOENIXLTD_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28790_PHOENIXLTD_2024_2025_A_24917971_06092025174306.pdf",
+    "local_path": "documents\\PHOENIXLTD\\PHOENIXLTD_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PWL",
+    "document_type": "annual_report",
+    "title": "No annual reports found",
+    "source_url": "",
+    "local_path": "",
+    "status": "missing",
+    "error": ""
+  },
+  {
+    "symbol": "PIDILITIND",
+    "document_type": "annual_report",
+    "title": "PIDILITIND_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29585_PIDILITIND_2025_2026_A_11820106_06072026174206.pdf",
+    "local_path": "documents\\PIDILITIND\\PIDILITIND_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PINELABS",
+    "document_type": "annual_report",
+    "title": "No annual reports found",
+    "source_url": "",
+    "local_path": "",
+    "status": "missing",
+    "error": ""
+  },
+  {
+    "symbol": "PIRAMALFIN",
+    "document_type": "annual_report",
+    "title": "PIRAMALFIN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29379_PIRAMALFIN_2025_2026_A_9616142_10062026193348.pdf",
+    "local_path": "documents\\PIRAMALFIN\\PIRAMALFIN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PPLPHARMA",
+    "document_type": "annual_report",
+    "title": "PPLPHARMA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29557_PPLPHARMA_2025_2026_A_12650980_03072026153531.pdf",
+    "local_path": "documents\\PPLPHARMA\\PPLPHARMA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "POLYMED",
+    "document_type": "annual_report",
+    "title": "POLYMED_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28354_POLYMED_2024_2025_A_9286571_03092025202200.pdf",
+    "local_path": "documents\\POLYMED\\POLYMED_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "POLYCAB",
+    "document_type": "annual_report",
+    "title": "POLYCAB_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29368_POLYCAB_2025_2026_A_20879015_09062026002210.pdf",
+    "local_path": "documents\\POLYCAB\\POLYCAB_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "POONAWALLA",
+    "document_type": "annual_report",
+    "title": "POONAWALLA_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_26785_POONAWALLA_2024_2025_A_07072025232416.pdf",
+    "local_path": "documents\\POONAWALLA\\POONAWALLA_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PFC",
+    "document_type": "annual_report",
+    "title": "PFC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30267_PFC_2025_2026_A_32266374_08082026181640.pdf",
+    "local_path": "documents\\PFC\\PFC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "POWERGRID",
+    "document_type": "annual_report",
+    "title": "POWERGRID_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30063_POWERGRID_2025_2026_A_26285323_29072026230248.pdf",
+    "local_path": "documents\\POWERGRID\\POWERGRID_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PREMIERENE",
+    "document_type": "annual_report",
+    "title": "PREMIERENE_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27559_PREMIERENE_2024_2025_U_21082025201021.pdf",
+    "local_path": "documents\\PREMIERENE\\PREMIERENE_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PRESTIGE",
+    "document_type": "annual_report",
+    "title": "PRESTIGE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30036_PRESTIGE_2025_2026_A_28754343_28072026170403.pdf",
+    "local_path": "documents\\PRESTIGE\\PRESTIGE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PFOCUS",
+    "document_type": "annual_report",
+    "title": "PFOCUS_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28708_PFOCUS_2024_2025_A_16190530_05092025223652.pdf",
+    "local_path": "documents\\PFOCUS\\PFOCUS_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "PNB",
+    "document_type": "annual_report",
+    "title": "PNB_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29283_PNB_2025_2026_A_11706707_27052026194557.pdf",
+    "local_path": "documents\\PNB\\PNB_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "RRKABEL",
+    "document_type": "annual_report",
+    "title": "RRKABEL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29410_RRKABEL_2025_2026_A_9625387_19062026094129.pdf",
+    "local_path": "documents\\RRKABEL\\RRKABEL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "RBLBANK",
+    "document_type": "annual_report",
+    "title": "RBLBANK_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30247_RBLBANK_2025_2026_A_19820857_07082026175748.pdf",
+    "local_path": "documents\\RBLBANK\\RBLBANK_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "RECLTD",
+    "document_type": "annual_report",
+    "title": "RECLTD_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30082_RECLTD_2025_2026_A_24402474_30072026211150.pdf",
+    "local_path": "documents\\RECLTD\\RECLTD_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "RHIM",
+    "document_type": "annual_report",
+    "title": "RHIM_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28109_RHIM_2024_2025_A_26917663_02092025000305.pdf",
+    "local_path": "documents\\RHIM\\RHIM_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "RITES",
+    "document_type": "annual_report",
+    "title": "RITES_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27937_RITES_2024_2025_A_11967234_30082025131218.pdf",
+    "local_path": "documents\\RITES\\RITES_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "RADICO",
+    "document_type": "annual_report",
+    "title": "RADICO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29796_RADICO_2025_2026_A_14776964_14072026210617.pdf",
+    "local_path": "documents\\RADICO\\RADICO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "RVNL",
+    "document_type": "annual_report",
+    "title": "RVNL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30128_RVNL_2025_2026_A_13892152_01082026165149.pdf",
+    "local_path": "documents\\RVNL\\RVNL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "RAILTEL",
+    "document_type": "annual_report",
+    "title": "RAILTEL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30033_RAILTEL_2025_2026_A_13444102_28072026160205.pdf",
+    "local_path": "documents\\RAILTEL\\RAILTEL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "RAINBOW",
+    "document_type": "annual_report",
+    "title": "RAINBOW_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29603_RAINBOW_2025_2026_A_13973430_06072026224727.pdf",
+    "local_path": "documents\\RAINBOW\\RAINBOW_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "RKFORGE",
+    "document_type": "annual_report",
+    "title": "RKFORGE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30215_RKFORGE_2025_2026_A_6751431_05082026210237.pdf",
+    "local_path": "documents\\RKFORGE\\RKFORGE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "REDINGTON",
+    "document_type": "annual_report",
+    "title": "REDINGTON_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29619_REDINGTON_2025_2026_A_25133422_07072026164031.pdf",
+    "local_path": "documents\\REDINGTON\\REDINGTON_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "RELIANCE",
+    "document_type": "annual_report",
+    "title": "RELIANCE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29285_RELIANCE_2025_2026_A_11007429_28052026133947.pdf",
+    "local_path": "documents\\RELIANCE\\RELIANCE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "RPOWER",
+    "document_type": "annual_report",
+    "title": "RPOWER_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29973_RPOWER_2025_2026_A_4586202_23072026223331.pdf",
+    "local_path": "documents\\RPOWER\\RPOWER_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SBFC",
+    "document_type": "annual_report",
+    "title": "SBFC_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_26567_SBFC_2024_2025_A_18062025123805.pdf",
+    "local_path": "documents\\SBFC\\SBFC_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SBICARD",
+    "document_type": "annual_report",
+    "title": "SBICARD_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30164_SBICARD_2025_2026_A_18405665_03082026215801.pdf",
+    "local_path": "documents\\SBICARD\\SBICARD_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SBILIFE",
+    "document_type": "annual_report",
+    "title": "SBILIFE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29974_SBILIFE_2025_2026_A_12296748_23072026224207.pdf",
+    "local_path": "documents\\SBILIFE\\SBILIFE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SJVN",
+    "document_type": "annual_report",
+    "title": "SJVN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30221_SJVN_2025_2026_A_7663712_06082026143235.pdf",
+    "local_path": "documents\\SJVN\\SJVN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SRF",
+    "document_type": "annual_report",
+    "title": "SRF_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29359_SRF_2025_2026_A_20352537_06062026134821.pdf",
+    "local_path": "documents\\SRF\\SRF_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SAGILITY",
+    "document_type": "annual_report",
+    "title": "SAGILITY_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30014_SAGILITY_2025_2026_A_20708429_27072026141847.pdf",
+    "local_path": "documents\\SAGILITY\\SAGILITY_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SAILIFE",
+    "document_type": "annual_report",
+    "title": "SAILIFE_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27475_SAILIFE_2024_2025_A_18082025161122.pdf",
+    "local_path": "documents\\SAILIFE\\SAILIFE_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SAMMAANCAP",
+    "document_type": "annual_report",
+    "title": "SAMMAANCAP_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28863_SAMMAANCAP_2024_2025_A_9959069_06092025231813.pdf",
+    "local_path": "documents\\SAMMAANCAP\\SAMMAANCAP_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "MOTHERSON",
+    "document_type": "annual_report",
+    "title": "MOTHERSON_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29638_MOTHERSON_2025_2026_A_21633133_07072026201703.pdf",
+    "local_path": "documents\\MOTHERSON\\MOTHERSON_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SAPPHIRE",
+    "document_type": "annual_report",
+    "title": "SAPPHIRE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29468_SAPPHIRE_2025_2026_A_7644957_27062026175841.pdf",
+    "local_path": "documents\\SAPPHIRE\\SAPPHIRE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SARDAEN",
+    "document_type": "annual_report",
+    "title": "SARDAEN_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28052_SARDAEN_2024_2025_A_4691306_01092025170519.pdf",
+    "local_path": "documents\\SARDAEN\\SARDAEN_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SAREGAMA",
+    "document_type": "annual_report",
+    "title": "SAREGAMA_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27459_SAREGAMA_2024_2025_A_14082025210400.pdf",
+    "local_path": "documents\\SAREGAMA\\SAREGAMA_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SCHAEFFLER",
+    "document_type": "annual_report",
+    "title": "SCHAEFFLER_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29242_SCHAEFFLER_2025_2025_A_15663258_04042026130406.pdf",
+    "local_path": "documents\\SCHAEFFLER\\SCHAEFFLER_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SCHNEIDER",
+    "document_type": "annual_report",
+    "title": "SCHNEIDER_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27393_SCHNEIDER_2024_2025_A_12082025154207.pdf",
+    "local_path": "documents\\SCHNEIDER\\SCHNEIDER_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SCI",
+    "document_type": "annual_report",
+    "title": "SCI_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29121_SCI_2024_2025_U_15354733_18092025105844.pdf",
+    "local_path": "documents\\SCI\\SCI_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SHREECEM",
+    "document_type": "annual_report",
+    "title": "SHREECEM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29637_SHREECEM_2025_2026_A_15627016_07072026194056.pdf",
+    "local_path": "documents\\SHREECEM\\SHREECEM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "document_type": "annual_report",
+    "title": "SHRIRAMFIN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29401_SHRIRAMFIN_2025_2026_A_18605156_17062026163904.pdf",
+    "local_path": "documents\\SHRIRAMFIN\\SHRIRAMFIN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SHYAMMETL",
+    "document_type": "annual_report",
+    "title": "SHYAMMETL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30158_SHYAMMETL_2025_2026_A_18874363_03082026190156.pdf",
+    "local_path": "documents\\SHYAMMETL\\SHYAMMETL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ENRIN",
+    "document_type": "annual_report",
+    "title": "ENRIN_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29219_ENRIN_2024_2025_A_6164613_16012026150254.pdf",
+    "local_path": "documents\\ENRIN\\ENRIN_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SIEMENS",
+    "document_type": "annual_report",
+    "title": "SIEMENS_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29759_SIEMENS_2024_2026_A_21354062_13072026172733.pdf",
+    "local_path": "documents\\SIEMENS\\SIEMENS_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SIGNATURE",
+    "document_type": "annual_report",
+    "title": "SIGNATURE_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28099_SIGNATURE_2024_2025_A_20359455_01092025211150.pdf",
+    "local_path": "documents\\SIGNATURE\\SIGNATURE_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SOBHA",
+    "document_type": "annual_report",
+    "title": "SOBHA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29460_SOBHA_2025_2026_A_50999908_26062026171753.pdf",
+    "local_path": "documents\\SOBHA\\SOBHA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SOLARINDS",
+    "document_type": "annual_report",
+    "title": "SOLARINDS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29920_SOLARINDS_2025_2026_A_21108453_20072026212751.pdf",
+    "local_path": "documents\\SOLARINDS\\SOLARINDS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SONACOMS",
+    "document_type": "annual_report",
+    "title": "SONACOMS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29416_SONACOMS_2025_2026_A_12819231_20062026183404.pdf",
+    "local_path": "documents\\SONACOMS\\SONACOMS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SONATSOFTW",
+    "document_type": "annual_report",
+    "title": "SONATSOFTW_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29636_SONATSOFTW_2025_2026_A_27846808_07072026193632.pdf",
+    "local_path": "documents\\SONATSOFTW\\SONATSOFTW_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "STARHEALTH",
+    "document_type": "annual_report",
+    "title": "STARHEALTH_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30113_STARHEALTH_2025_2026_A_24210053_31072026194244.pdf",
+    "local_path": "documents\\STARHEALTH\\STARHEALTH_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SBIN",
+    "document_type": "annual_report",
+    "title": "SBIN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29279_SBIN_2025_2026_A_22551017_26052026223038.pdf",
+    "local_path": "documents\\SBIN\\SBIN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SAIL",
+    "document_type": "annual_report",
+    "title": "SAIL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27649_SAIL_2024_2025_A_10027679_25082025170645.pdf",
+    "local_path": "documents\\SAIL\\SAIL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SUMICHEM",
+    "document_type": "annual_report",
+    "title": "SUMICHEM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29546_SUMICHEM_2025_2026_U_17023545_03072026105431.pdf",
+    "local_path": "documents\\SUMICHEM\\SUMICHEM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "document_type": "annual_report",
+    "title": "SUNPHARMA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29590_SUNPHARMA_2025_2026_A_19925421_06072026185825.pdf",
+    "local_path": "documents\\SUNPHARMA\\SUNPHARMA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SUNTV",
+    "document_type": "annual_report",
+    "title": "SUNTV_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27817_SUNTV_2024_2025_A_2801790_28082025164346.pdf",
+    "local_path": "documents\\SUNTV\\SUNTV_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SUNDARMFIN",
+    "document_type": "annual_report",
+    "title": "SUNDARMFIN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29484_SUNDARMFIN_2025_2026_A_8222403_29062026184633.pdf",
+    "local_path": "documents\\SUNDARMFIN\\SUNDARMFIN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SUPREMEIND",
+    "document_type": "annual_report",
+    "title": "SUPREMEIND_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29321_SUPREMEIND_2025_2026_A_7275995_01062026164639.pdf",
+    "local_path": "documents\\SUPREMEIND\\SUPREMEIND_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SPLPETRO",
+    "document_type": "annual_report",
+    "title": "SPLPETRO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29402_SPLPETRO_2025_2026_A_2812940_17062026175220.pdf",
+    "local_path": "documents\\SPLPETRO\\SPLPETRO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SUZLON",
+    "document_type": "annual_report",
+    "title": "SUZLON_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27926_SUZLON_2024_2025_A_6679978_29082025213406.pdf",
+    "local_path": "documents\\SUZLON\\SUZLON_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SWANCORP",
+    "document_type": "annual_report",
+    "title": "SWANCORP_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28785_SWANCORP_2024_2025_A_2227949_06092025173053.pdf",
+    "local_path": "documents\\SWANCORP\\SWANCORP_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SWIGGY",
+    "document_type": "annual_report",
+    "title": "SWIGGY_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29977_SWIGGY_2025_2026_A_20371321_24072026114408.pdf",
+    "local_path": "documents\\SWIGGY\\SWIGGY_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SYNGENE",
+    "document_type": "annual_report",
+    "title": "SYNGENE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29540_SYNGENE_2025_2026_A_4857021_02072026190242.pdf",
+    "local_path": "documents\\SYNGENE\\SYNGENE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "SYRMA",
+    "document_type": "annual_report",
+    "title": "SYRMA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30145_SYRMA_2025_2026_A_10060520_03082026151523.pdf",
+    "local_path": "documents\\SYRMA\\SYRMA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TBOTEK",
+    "document_type": "annual_report",
+    "title": "TBOTEK_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30205_TBOTEK_2025_2026_A_13026851_05082026145922.pdf",
+    "local_path": "documents\\TBOTEK\\TBOTEK_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TVSMOTOR",
+    "document_type": "annual_report",
+    "title": "TVSMOTOR_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29477_TVSMOTOR_2025_2026_A_20556664_29062026134556.pdf",
+    "local_path": "documents\\TVSMOTOR\\TVSMOTOR_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TATACAP",
+    "document_type": "annual_report",
+    "title": "TATACAP_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29962_TATACAP_2025_2026_A_7761580_23072026162807.pdf",
+    "local_path": "documents\\TATACAP\\TATACAP_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TATACHEM",
+    "document_type": "annual_report",
+    "title": "TATACHEM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29345_TATACHEM_2025_2026_A_11388581_04062026210829.pdf",
+    "local_path": "documents\\TATACHEM\\TATACHEM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TATACOMM",
+    "document_type": "annual_report",
+    "title": "TATACOMM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29396_TATACOMM_2025_2026_A_15788639_16062026152054.pdf",
+    "local_path": "documents\\TATACOMM\\TATACOMM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TCS",
+    "document_type": "annual_report",
+    "title": "TCS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29263_TCS_2025_2026_A_17427580_15052026234830.pdf",
+    "local_path": "documents\\TCS\\TCS_Annual_Report_2025.pdf",
+    "status": "exists",
+    "error": ""
+  },
+  {
+    "symbol": "TATACONSUM",
+    "document_type": "annual_report",
+    "title": "TATACONSUM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29265_TATACONSUM_2025_2026_A_24796706_17052026194019.pdf",
+    "local_path": "documents\\TATACONSUM\\TATACONSUM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TATAELXSI",
+    "document_type": "annual_report",
+    "title": "TATAELXSI_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29320_TATAELXSI_2025_2026_A_8677225_01062026164247.pdf",
+    "local_path": "documents\\TATAELXSI\\TATAELXSI_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TATAINVEST",
+    "document_type": "annual_report",
+    "title": "TATAINVEST_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29340_TATAINVEST_2025_2026_A_3201381_04062026164949.pdf",
+    "local_path": "documents\\TATAINVEST\\TATAINVEST_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TMCV",
+    "document_type": "annual_report",
+    "title": "TMCV_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29361_TMCV_2025_2026_A_20847723_06062026213355.pdf",
+    "local_path": "documents\\TMCV\\TMCV_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TMPV",
+    "document_type": "annual_report",
+    "title": "TMPV_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29395_TMPV_2025_2026_A_21445169_15062026215933.pdf",
+    "local_path": "documents\\TMPV\\TMPV_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TATAPOWER",
+    "document_type": "annual_report",
+    "title": "TATAPOWER_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29380_TATAPOWER_2025_2026_A_16197784_10062026203510.pdf",
+    "local_path": "documents\\TATAPOWER\\TATAPOWER_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TATASTEEL",
+    "document_type": "annual_report",
+    "title": "TATASTEEL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29336_TATASTEEL_2025_2026_A_19703090_03062026194432.pdf",
+    "local_path": "documents\\TATASTEEL\\TATASTEEL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TATATECH",
+    "document_type": "annual_report",
+    "title": "TATATECH_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29332_TATATECH_2025_2026_A_12658288_03062026174048.pdf",
+    "local_path": "documents\\TATATECH\\TATATECH_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TTML",
+    "document_type": "annual_report",
+    "title": "TTML_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29258_TTML_2025_2026_A_6627129_13052026190949.pdf",
+    "local_path": "documents\\TTML\\TTML_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TECHM",
+    "document_type": "annual_report",
+    "title": "TECHM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29435_TECHM_2025_2026_A_15304795_23062026234616.pdf",
+    "local_path": "documents\\TECHM\\TECHM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TECHNOE",
+    "document_type": "annual_report",
+    "title": "TECHNOE_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28077_TECHNOE_2024_2025_A_5773880_01092025185331.pdf",
+    "local_path": "documents\\TECHNOE\\TECHNOE_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TEGA",
+    "document_type": "annual_report",
+    "title": "TEGA_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27739_TEGA_2024_2025_A_6308488_26082025191340.pdf",
+    "local_path": "documents\\TEGA\\TEGA_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TEJASNET",
+    "document_type": "annual_report",
+    "title": "TEJASNET_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_26493_TEJASNET_2024_2025_A_03062025184400.pdf",
+    "local_path": "documents\\TEJASNET\\TEJASNET_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TENNIND",
+    "document_type": "annual_report",
+    "title": "TENNIND_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30232_TENNIND_2025_2026_A_14321443_06082026221657.pdf",
+    "local_path": "documents\\TENNIND\\TENNIND_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "NIACL",
+    "document_type": "annual_report",
+    "title": "NIACL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30008_NIACL_2025_2026_U_20527526_26072026222054.pdf",
+    "local_path": "documents\\NIACL\\NIACL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "RAMCOCEM",
+    "document_type": "annual_report",
+    "title": "RAMCOCEM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29941_RAMCOCEM_2025_2026_A_12590653_21072026194725.pdf",
+    "local_path": "documents\\RAMCOCEM\\RAMCOCEM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "THERMAX",
+    "document_type": "annual_report",
+    "title": "THERMAX_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29561_THERMAX_2025_2026_A_12575457_03072026171607.pdf",
+    "local_path": "documents\\THERMAX\\THERMAX_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TIMKEN",
+    "document_type": "annual_report",
+    "title": "TIMKEN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29923_TIMKEN_2025_2026_A_2859841_21072026113716.pdf",
+    "local_path": "documents\\TIMKEN\\TIMKEN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TITAGARH",
+    "document_type": "annual_report",
+    "title": "TITAGARH_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28477_TITAGARH_2024_2025_U_12263342_04092025192649.pdf",
+    "local_path": "documents\\TITAGARH\\TITAGARH_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TITAN",
+    "document_type": "annual_report",
+    "title": "TITAN_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29549_TITAN_2025_2026_A_11906853_03072026125809.pdf",
+    "local_path": "documents\\TITAN\\TITAN_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TORNTPHARM",
+    "document_type": "annual_report",
+    "title": "TORNTPHARM_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29317_TORNTPHARM_2025_2026_A_9846495_01062026144519.pdf",
+    "local_path": "documents\\TORNTPHARM\\TORNTPHARM_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TORNTPOWER",
+    "document_type": "annual_report",
+    "title": "TORNTPOWER_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29704_TORNTPOWER_2025_2026_A_16917908_10072026152542.pdf",
+    "local_path": "documents\\TORNTPOWER\\TORNTPOWER_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TARIL",
+    "document_type": "annual_report",
+    "title": "TARIL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_26426_TARIL_2024_2025_U_23042025131938.pdf",
+    "local_path": "documents\\TARIL\\TARIL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TRAVELFOOD",
+    "document_type": "annual_report",
+    "title": "No annual reports found",
+    "source_url": "",
+    "local_path": "",
+    "status": "missing",
+    "error": ""
+  },
+  {
+    "symbol": "TRENT",
+    "document_type": "annual_report",
+    "title": "TRENT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29305_TRENT_2025_2026_A_21152615_30052026111245.pdf",
+    "local_path": "documents\\TRENT\\TRENT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TRIDENT",
+    "document_type": "annual_report",
+    "title": "TRIDENT_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29690_TRIDENT_2025_2026_A_13875098_09072026214902.pdf",
+    "local_path": "documents\\TRIDENT\\TRIDENT_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TRITURBINE",
+    "document_type": "annual_report",
+    "title": "TRITURBINE_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27414_TRITURBINE_2024_2025_A_13082025174437.pdf",
+    "local_path": "documents\\TRITURBINE\\TRITURBINE_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "TIINDIA",
+    "document_type": "annual_report",
+    "title": "TIINDIA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29720_TIINDIA_2025_2026_A_26658548_10072026180155.pdf",
+    "local_path": "documents\\TIINDIA\\TIINDIA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "UCOBANK",
+    "document_type": "annual_report",
+    "title": "UCOBANK_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29269_UCOBANK_2025_2026_A_10512079_21052026203406.pdf",
+    "local_path": "documents\\UCOBANK\\UCOBANK_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "UNOMINDA",
+    "document_type": "annual_report",
+    "title": "UNOMINDA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29550_UNOMINDA_2025_2026_A_26818952_03072026130152.pdf",
+    "local_path": "documents\\UNOMINDA\\UNOMINDA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "UPL",
+    "document_type": "annual_report",
+    "title": "UPL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29816_UPL_2025_2026_A_17025135_15072026214119.pdf",
+    "local_path": "documents\\UPL\\UPL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "UTIAMC",
+    "document_type": "annual_report",
+    "title": "UTIAMC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29440_UTIAMC_2025_2026_A_14754909_24062026232811.pdf",
+    "local_path": "documents\\UTIAMC\\UTIAMC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "document_type": "annual_report",
+    "title": "ULTRACEMCO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29978_ULTRACEMCO_2025_2026_A_20670730_24072026120407.pdf",
+    "local_path": "documents\\ULTRACEMCO\\ULTRACEMCO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "UNIONBANK",
+    "document_type": "annual_report",
+    "title": "UNIONBANK_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29409_UNIONBANK_2025_2026_A_12333320_18062026210023.pdf",
+    "local_path": "documents\\UNIONBANK\\UNIONBANK_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "UBL",
+    "document_type": "annual_report",
+    "title": "UBL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29902_UBL_2025_2026_A_183050_20072026165843.pdf",
+    "local_path": "documents\\UBL\\UBL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "UNITDSPR",
+    "document_type": "annual_report",
+    "title": "UNITDSPR_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29731_UNITDSPR_2025_2026_A_10956084_10072026221040.pdf",
+    "local_path": "documents\\UNITDSPR\\UNITDSPR_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "URBANCO",
+    "document_type": "annual_report",
+    "title": "URBANCO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29354_URBANCO_2025_2026_A_11537015_05062026193647.pdf",
+    "local_path": "documents\\URBANCO\\URBANCO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "USHAMART",
+    "document_type": "annual_report",
+    "title": "USHAMART_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30028_USHAMART_2025_2026_A_13501382_27072026212913.pdf",
+    "local_path": "documents\\USHAMART\\USHAMART_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "VTL",
+    "document_type": "annual_report",
+    "title": "VTL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28189_VTL_2024_2025_A_12768539_02092025184314.pdf",
+    "local_path": "documents\\VTL\\VTL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "VBL",
+    "document_type": "annual_report",
+    "title": "VBL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29236_VBL_2025_2025_A_12339974_09032026143558.pdf",
+    "local_path": "documents\\VBL\\VBL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "VEDL",
+    "document_type": "annual_report",
+    "title": "VEDL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_26570_VEDL_2024_2025_A_18062025151918.pdf",
+    "local_path": "documents\\VEDL\\VEDL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "VIJAYA",
+    "document_type": "annual_report",
+    "title": "VIJAYA_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27411_VIJAYA_2024_2025_A_13082025171255.pdf",
+    "local_path": "documents\\VIJAYA\\VIJAYA_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "VMM",
+    "document_type": "annual_report",
+    "title": "VMM_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28249_VMM_2024_2025_A_16783325_03092025123740.pdf",
+    "local_path": "documents\\VMM\\VMM_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "IDEA",
+    "document_type": "annual_report",
+    "title": "IDEA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30194_IDEA_2025_2026_A_7288659_04082026202915.pdf",
+    "local_path": "documents\\IDEA\\IDEA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "VOLTAS",
+    "document_type": "annual_report",
+    "title": "VOLTAS_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29362_VOLTAS_2025_2026_A_17535603_06062026231927.pdf",
+    "local_path": "documents\\VOLTAS\\VOLTAS_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "WAAREEENER",
+    "document_type": "annual_report",
+    "title": "WAAREEENER_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28233_WAAREEENER_2024_2025_A_9050351_02092025215954.pdf",
+    "local_path": "documents\\WAAREEENER\\WAAREEENER_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "WELCORP",
+    "document_type": "annual_report",
+    "title": "WELCORP_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29836_WELCORP_2025_2026_A_27280476_16072026201247.pdf",
+    "local_path": "documents\\WELCORP\\WELCORP_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "WELSPUNLIV",
+    "document_type": "annual_report",
+    "title": "WELSPUNLIV_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27444_WELSPUNLIV_2024_2025_A_14082025181855.pdf",
+    "local_path": "documents\\WELSPUNLIV\\WELSPUNLIV_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "WHIRLPOOL",
+    "document_type": "annual_report",
+    "title": "WHIRLPOOL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27431_WHIRLPOOL_2024_2025_A_14082025134750.pdf",
+    "local_path": "documents\\WHIRLPOOL\\WHIRLPOOL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "WIPRO",
+    "document_type": "annual_report",
+    "title": "WIPRO_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29427_WIPRO_2025_2026_A_8877705_22062026190140.pdf",
+    "local_path": "documents\\WIPRO\\WIPRO_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "WOCKPHARMA",
+    "document_type": "annual_report",
+    "title": "WOCKPHARMA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29875_WOCKPHARMA_2025_2026_A_7002763_17072026203144.pdf",
+    "local_path": "documents\\WOCKPHARMA\\WOCKPHARMA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "YESBANK",
+    "document_type": "annual_report",
+    "title": "YESBANK_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29996_YESBANK_2025_2026_A_14709739_25072026004908.pdf",
+    "local_path": "documents\\YESBANK\\YESBANK_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ZFCVINDIA",
+    "document_type": "annual_report",
+    "title": "ZFCVINDIA_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29534_ZFCVINDIA_2025_2026_A_18761599_02072026164203.pdf",
+    "local_path": "documents\\ZFCVINDIA\\ZFCVINDIA_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ZEEL",
+    "document_type": "annual_report",
+    "title": "ZEEL_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27525_ZEEL_2024_2025_A_20082025170122.pdf",
+    "local_path": "documents\\ZEEL\\ZEEL_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ZENTEC",
+    "document_type": "annual_report",
+    "title": "ZENTEC_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_30233_ZENTEC_2025_2026_A_11243869_06082026223907.pdf",
+    "local_path": "documents\\ZENTEC\\ZENTEC_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ZENSARTECH",
+    "document_type": "annual_report",
+    "title": "ZENSARTECH_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29989_ZENSARTECH_2025_2026_U_11681593_24072026185834.pdf",
+    "local_path": "documents\\ZENSARTECH\\ZENSARTECH_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ZYDUSLIFE",
+    "document_type": "annual_report",
+    "title": "ZYDUSLIFE_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29701_ZYDUSLIFE_2025_2026_A_16334302_10072026135338.pdf",
+    "local_path": "documents\\ZYDUSLIFE\\ZYDUSLIFE_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ZYDUSWELL",
+    "document_type": "annual_report",
+    "title": "ZYDUSWELL_Annual_Report_2025",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_29721_ZYDUSWELL_2025_2026_A_13733757_10072026180327.pdf",
+    "local_path": "documents\\ZYDUSWELL\\ZYDUSWELL_Annual_Report_2025.pdf",
+    "status": "downloaded",
+    "error": ""
+  },
+  {
+    "symbol": "ECLERX",
+    "document_type": "annual_report",
+    "title": "ECLERX_Annual_Report_2024",
+    "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27496_ECLERX_2024_2025_A_19082025142136.pdf",
+    "local_path": "documents\\ECLERX\\ECLERX_Annual_Report_2024.pdf",
+    "status": "downloaded",
+    "error": ""
+  }
+]

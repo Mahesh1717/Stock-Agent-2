@@ -51,6 +51,15 @@ class Settings:
     volume_spike_threshold: float
     min_alert_score: int
     alert_actions: tuple[str, ...]
+    documents_path: Path
+    chroma_path: Path
+    rag_collection: str
+    embedding_model: str
+    rag_top_k: int
+    ollama_enabled: bool
+    ollama_model: str
+    ollama_url: str
+    ollama_timeout_seconds: int
 
 
 def load_settings() -> Settings:
@@ -70,4 +79,13 @@ def load_settings() -> Settings:
         volume_spike_threshold=_float_env("VOLUME_SPIKE_THRESHOLD", 1.5),
         min_alert_score=_int_env("MIN_ALERT_SCORE", 3),
         alert_actions=_csv_env("ALERT_ACTIONS", ("BUY", "HOLD", "SELL")),
+        documents_path=Path(os.getenv("DOCUMENTS_PATH", "documents")),
+        chroma_path=Path(os.getenv("CHROMA_PATH", "chroma_db")),
+        rag_collection=os.getenv("RAG_COLLECTION", "financial_reports"),
+        embedding_model=os.getenv("EMBEDDING_MODEL", "sentence-transformers/all-MiniLM-L6-v2"),
+        rag_top_k=_int_env("RAG_TOP_K", 5),
+        ollama_enabled=_bool_env("OLLAMA_ENABLED", False),
+        ollama_model=os.getenv("OLLAMA_MODEL", "llama3.1:8b"),
+        ollama_url=os.getenv("OLLAMA_URL", "http://localhost:11434/api/generate"),
+        ollama_timeout_seconds=_int_env("OLLAMA_TIMEOUT_SECONDS", 60),
     )

@@ -49,6 +49,9 @@ jobs:
           python -m pip install --upgrade pip setuptools wheel
           pip install -r requirements.txt
 
+      - name: Ingest financial documents
+        run: python app.py --ingest-documents
+
       - name: Run stock agent once
         run: python app.py --once
 

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import csv
+import re
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -44,20 +45,35 @@ def load_watchlist(path: Path) -> list[Stock]:
     return stocks
 
 
-def match_stock(headline: str, watchlist: list[Stock], min_score: int = 88) -> Stock | None:
+def match_stock(headline: str, watchlist: list[Stock], min_score: int = 90) -> Stock | None:
     normalized = headline.lower()
+    exact_stock: Stock | None = None
+    exact_alias_length = 0
     best_stock: Stock | None = None
     best_score = 0
 
     for stock in watchlist:
         for alias in stock.aliases:
-            if alias and alias in normalized:
-                return stock
+            if alias and _contains_alias(normalized, alias):
+                if len(alias) > exact_alias_length:
+                    exact_alias_length = len(alias)
+                    exact_stock = stock
+                continue
+            if len(alias) < 5:
+                continue
             score = fuzz.partial_ratio(alias, normalized)
             if score > best_score:
                 best_score = score
                 best_stock = stock
 
+    if exact_stock is not None:
+        return exact_stock
     if best_score >= min_score:
         return best_stock
     return None
+
+
+def _contains_alias(headline: str, alias: str) -> bool:
+    if len(alias) < 5:
+        return re.search(rf"(?<![a-z0-9]){re.escape(alias)}(?![a-z0-9])", headline) is not None
+    return alias in headline

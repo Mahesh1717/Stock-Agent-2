@@ -37,6 +37,7 @@ class TelegramNotifier:
         direction = "BUY SIGNAL" if signal.action == "BUY" else f"{signal.action} SIGNAL"
         reasons = "\n".join(f"- {reason}" for reason in signal.reasons) or "- No strong bullish factors"
         risks = "\n".join(f"- {risk}" for risk in signal.risks) or "- No major risk flags"
+        fundamentals = TelegramNotifier._format_fundamentals(signal)
 
         return (
             f"{direction}\n\n"
@@ -54,5 +55,29 @@ class TelegramNotifier:
             f"Action: {signal.action}\n\n"
             f"Reasons:\n{reasons}\n\n"
             f"Risks:\n{risks}\n\n"
+            f"{fundamentals}"
             f"Link: {signal.article.link}"
+        )
+
+    @staticmethod
+    def _format_fundamentals(signal: Signal) -> str:
+        if signal.fundamentals is None:
+            return ""
+        assessment = signal.fundamentals
+        if not assessment.has_evidence:
+            return f"RAG Evidence:\n- {assessment.summary}\n\n"
+
+        positives = "\n".join(f"- {item}" for item in assessment.positives) or "- No clear positive evidence"
+        risks = "\n".join(f"- {item}" for item in assessment.risks) or "- No clear document risk"
+        sources = "\n".join(
+            f"- {chunk.citation}"
+            for chunk in assessment.evidence[:3]
+        )
+        return (
+            f"RAG Evidence:\n"
+            f"Summary: {assessment.summary}\n"
+            f"Fundamental Score: {assessment.score}\n"
+            f"Positives:\n{positives}\n"
+            f"Document Risks:\n{risks}\n"
+            f"Sources:\n{sources}\n\n"
         )

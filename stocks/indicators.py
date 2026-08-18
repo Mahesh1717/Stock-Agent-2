@@ -5,9 +5,6 @@ from dataclasses import dataclass
 from collections.abc import Sequence
 
 import pandas as pd
-import yfinance as yf
-from ta.momentum import RSIIndicator
-from ta.trend import MACD, SMAIndicator
 
 
 @dataclass(frozen=True)
@@ -33,6 +30,8 @@ class TechnicalAnalyzer:
         previous_level = yfinance_logger.level
         yfinance_logger.setLevel(logging.CRITICAL)
         try:
+            import yfinance as yf
+
             for symbol in symbols:
                 used_symbol = symbol
                 data = yf.download(
@@ -61,6 +60,9 @@ class TechnicalAnalyzer:
 
         close = frame["Close"]
         volume = frame["Volume"]
+
+        from ta.momentum import RSIIndicator
+        from ta.trend import MACD, SMAIndicator
 
         frame["RSI"] = RSIIndicator(close=close, window=14).rsi()
         macd = MACD(close=close)

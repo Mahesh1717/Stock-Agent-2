@@ -5,4 +5,8 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 data/processed_news.json
+data/*_source.csv
+chroma_db/
+database/nse_downloads/
+documents/**/*.pdf
 *.log

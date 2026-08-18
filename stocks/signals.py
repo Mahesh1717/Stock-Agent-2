@@ -4,6 +4,7 @@ from dataclasses import dataclass
 
 from news.fetch_news import Article
 from news.sentiment import SentimentResult
+from rag.models import FundamentalAssessment
 from stocks.indicators import IndicatorResult
 from stocks.watchlist import Stock
 
@@ -19,6 +20,7 @@ class Signal:
     confidence: int
     reasons: tuple[str, ...]
     risks: tuple[str, ...]
+    fundamentals: FundamentalAssessment | None = None
 
 
 def build_signal(
@@ -31,6 +33,7 @@ def build_signal(
     rsi_buy_threshold: float,
     rsi_sell_threshold: float,
     volume_spike_threshold: float,
+    fundamentals: FundamentalAssessment | None = None,
 ) -> Signal:
     score = 0
     reasons: list[str] = []
@@ -80,6 +83,15 @@ def build_signal(
     else:
         risks.append("Price is below SMA20")
 
+    if fundamentals and fundamentals.has_evidence:
+        score += fundamentals.score
+        if fundamentals.score > 0:
+            reasons.append(f"Fundamental evidence supportive (+{fundamentals.score})")
+        elif fundamentals.score < 0:
+            risks.append(f"Fundamental evidence negative ({fundamentals.score})")
+    elif fundamentals:
+        risks.append("No local financial-document evidence available")
+
     strong_sell = negative_news and bearish_macd and high_volume and below_sma20
     action = _action_from_score(score, strong_sell)
     confidence = _confidence(score, article.source_weight)
@@ -94,6 +106,7 @@ def build_signal(
         confidence=confidence,
         reasons=tuple(reasons),
         risks=tuple(risks),
+        fundamentals=fundamentals,
     )
 
 

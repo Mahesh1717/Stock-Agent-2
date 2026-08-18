@@ -8,3 +8,7 @@ ta>=0.11.0,<1
 torch>=2.6.0
 transformers>=4.48.0,<5
 yfinance>=0.2.54,<1
+pypdf>=4.3.1,<6
+chromadb>=0.5.5,<1
+sentence-transformers>=3.0.1,<6
+nse[local]>=3.1.2,<4
